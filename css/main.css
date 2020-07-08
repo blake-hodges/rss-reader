@@ -260,4 +260,13 @@ textarea {
     page-break-after: avoid;
   }
 }
+/* custom styles begin */
 
+body {
+    width: 600px;
+    margin: auto;
+}
+
+a {
+    display: inline;
+}
