@@ -267,6 +267,15 @@ body {
     margin: auto;
 }
 
-a {
-    display: inline;
+h3 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+
+
+.feed-entry {
+    padding: 10px;
+    border: grey 1px solid;
+    border-radius: 2px;
 }
