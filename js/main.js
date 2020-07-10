@@ -5,10 +5,14 @@ fetch("https://sivers.org/en.atom")
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
-        console.log(data);
+
+
 
         let entries = data.querySelectorAll("entry");
-        console.log(entries[0]);
+
+        for (let i = 0;i < entries.length; i++) {
+
+
 
         //div for feed entries
         let feedEntry = document.createElement("div");
@@ -18,7 +22,7 @@ fetch("https://sivers.org/en.atom")
         //entry title
         let entryTitle = document.createElement("h5");
         entryTitle.classList.add("entry-title");
-        let entryTitleText = entries[0].querySelector("title").innerHTML;
+        let entryTitleText = entries[i].querySelector("title").innerHTML;
         entryTitle.innerText = entryTitleText;
         document.querySelector(".feed-entry").appendChild(entryTitle);
 
@@ -40,10 +44,19 @@ fetch("https://sivers.org/en.atom")
         //link to blog article
         let link = document.createElement("a");
         link.classList.add("entry-link");
-        let linkText = entries[0].querySelector("link").getAttribute("href");
+        let linkText = entries[i].querySelector("link").getAttribute("href");
         link.innerText = linkText;
         link.setAttribute("href", linkText);
         document.querySelector(".feed-entry").appendChild(link);
+
+        //add horizontal rule after each entryTitle
+        let hr = document.createElement("hr");
+        document.querySelector(".feed-entry").appendChild(hr);
+
+    //end for loop
+    }
+
+
     });
 
 
