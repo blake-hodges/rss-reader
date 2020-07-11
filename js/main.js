@@ -6,7 +6,7 @@ fetch("https://sivers.org/en.atom")
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
 
-
+        console.log(data);
 
         let entries = data.querySelectorAll("entry");
 
@@ -39,6 +39,14 @@ fetch("https://sivers.org/en.atom")
         entryContent.innerText = entryContentText;
         document.querySelector(".feed-entry").appendChild(entryContent);
 
+        //date
+        let date = document.createElement("p");
+        date.classList.add("entry-date");
+        let dateString = entries[i].querySelector("updated").innerHTML;
+        let dateObj = new Date(dateString);
+        date.innerText = dateObj.toDateString();
+        document.querySelector(".feed-entry").appendChild(date);
+
         //link to blog article
         let link = document.createElement("a");
         link.classList.add("entry-link");
@@ -46,6 +54,8 @@ fetch("https://sivers.org/en.atom")
         link.innerText = linkText;
         link.setAttribute("href", linkText);
         document.querySelector(".feed-entry").appendChild(link);
+
+
 
         //add horizontal rule after each entryTitle
         let hr = document.createElement("hr");
@@ -91,6 +101,14 @@ fetch("http://feeds.feedburner.com/tynan?format=xml")
         let entryContentText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
         entryContent.innerText = entryContentText;
         document.querySelector(".feed-entry").appendChild(entryContent);
+
+        //date
+        let date = document.createElement("p");
+        date.classList.add("entry-date");
+        let dateString = entries[i].querySelector("pubDate").innerHTML;
+        let dateObj = new Date(dateString);
+        date.innerText = dateObj.toDateString();
+        document.querySelector(".feed-entry").appendChild(date);
 
         //link to blog article
         let link = document.createElement("a");
@@ -143,6 +161,14 @@ fetch("http://feeds.feedburner.com/nczonline?format=xml")
         let entryContentText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
         entryContent.innerText = entryContentText;
         document.querySelector(".feed-entry").appendChild(entryContent);
+
+        //date
+        let date = document.createElement("p");
+        date.classList.add("entry-date");
+        let dateString = entries[i].querySelector("pubDate").innerHTML;
+        let dateObj = new Date(dateString);
+        date.innerText = dateObj.toDateString();
+        document.querySelector(".feed-entry").appendChild(date);
 
         //link to blog article
         let link = document.createElement("a");
