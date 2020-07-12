@@ -6,7 +6,7 @@ fetch("https://sivers.org/en.atom")
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
 
-        console.log(data);
+        //console.log(data);
 
         let entries = data.querySelectorAll("entry");
 
@@ -71,7 +71,7 @@ fetch("http://feeds.feedburner.com/tynan?format=xml")
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         let xmlContent = data;
-        console.log(data);
+        //console.log(data);
         let entries = data.querySelectorAll("item");
 
         for(let i = 0;i < entries.length;i++) {
@@ -159,15 +159,11 @@ fetch("http://feeds.feedburner.com/nczonline?format=xml")
         document.querySelector(".feed-entry").appendChild(entryAuthor);
 
         //entry content
-        // let entryContent = document.createElement("p");
-        // entryContent.classList.add("entry-content");
-        // let entryContentText = entries[i].getElementsByTagName("content:encoded").item(0).innerHTML;
-        // let domParser = new DOMParser();
-        // let parsedHTML = domParser.parseFromString(entryContentText, "text/html");
-        //let firstP = parsedHTML.querySelector("p:nth-child(1)");
-        // let firstPFormatted = firstP.substring(0, firstP.length - 1);
-        // entryContent.innerText = firstPFormatted + "...";
-        // document.querySelector(".feed-entry").appendChild(entryContent);
+        let entryContent = document.createElement("p");
+        entryContent.classList.add("entry-content");
+        let entryContentText = entries[i].getElementsByTagName("description").item(0).innerHTML;
+        entryContent.innerText = entryContentText;
+        document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
         let date = document.createElement("p");
