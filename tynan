@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+  <channel>
+    <title>Tynan | Life Outside the Box</title>
+    <link>http://tynan.com</link>
+    <description>My name is Tynan. I love life and I explore its limits by ignoring common sense and seeing what is really possible.</description>
+    <language>en-us</language>
+
+    <lastBuildDate>Sat, 11 Jul 2020 10:00:03 -0700</lastBuildDate>
+
+    <docs>http://sett.com</docs>
+    <generator>Sett RSS Generator</generator>
+
+          <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/tynan" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="tynan" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><image><link>http://tynan.net</link><url>http://tynan.net/feedlogo.gif</url><title>TYNAN</title></image><item>
+            <title>What I've Done Since Quarantine Started</title>
+            <link>http://tynan.com/coronaprojects</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200710/20200709153440c9feedf3ee3c1420b8d7efb1a7029ecf_m.jpg">
+I've been quarantining in Las Vegas for four months now, so I thought that it would be fun to write about how I've used that time so far, especially because I've done a few projects that wouldn't have gotten done if I weren't here for so long. Presented in roughly chrono]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200710/20200709153440c9feedf3ee3c1420b8d7efb1a7029ecf_m.jpg"></p>
+<p>I've been quarantining in Las Vegas for four months now, so I thought that it would be fun to write about how I've used that time so far, especially because I've done a few projects that wouldn't have gotten done if I weren't here for so long. Presented in roughly chronological order:</p>
+<p><strong>1. Rewrote lots of CruiseSheet</strong></p>
+<p>I'm not sure how other people do it, but when I create a new project I tend to just jump in and start making it. That means that some of what I start out with wasn't exactly suited for what the end result was, so I get a little bit of accumulated kludge. I had noticed that it seemed like the number of available cruises would slowly decrease over time, which didn't seem to reflect reality, so I took a deep dive on the data import section and found the error. While I was under the hood I also fixed a bunch of other minor things that had been bothering me for a while.</p>
+<p><strong>2. Got back on a perfect gym / eating schedule</strong></p>
+<p>My general rule is that I keep perfect habits while at home in Vegas, but allow myself considerable culinary leeway when traveling. It just feels wrong, for example, to go to Budapest and not eat the amazing $12 three course lunches. And on cruises I've eaten up to 16 lobster tails in a sitting. The problem is that the amount of time I had been spending traveling had increased a lot over the preceding few years. My weight had gotten up to 165 which is the max I let myself get to before cutting down, so it was convenient timing.</p>
+<p>I typically eat just one Chipotle meal per day, sometimes some fruit for dessert, and work out every other day like clockwork. Once a week or so I'll have a different meal with my wife. This is a really easy way to lose weight in a healthy manner, and I've lost 12 pounds. I don't want to get under 150, so soon I'll increase my food again. This was a fun experiment because I always think it's not that hard to lose weight, but have never really had a reason to do it all at once. Usually if I get up around 165 I just regulate my food down a little bit.</p>
+<p><strong>3. Started coaching 5 new people</strong></p>
+<p>Before coronavirus I had stopped taking new coaching clients for around a year because it was hard to schedule with all of my travel. I also really prefer to have the first few calls in Vegas because it's my favorite work environment and those calls require really intense focus. For months I had been thinking about adding new people, but finally decided to when I got stuck in Vegas. This batch has been a really great group of people, so I'm now very glad that I took them on.</p>
+<p><strong>4. Bought a 3D Printer and learned how to do 3D CAD modeling</strong></p>
+<p>This is another thing I had been wanting to do for a while that finally made sense when I knew I'd be in the same place for a while. For the first month or so I printed something every single day, usually something I had designed myself. Now I print every week or two, but it's an amazing superpower to know that I can summon objects into existence within a few hours of conceiving of them. </p>
+<p>One day I was burning a stick of incense in my office and found myself annoyed at how I have to fish the unburnt tail of the stick out of the holder after it finishes burning, so I thought about it and designed an incense burner that automatically ejects the stick using gravity. That's my favorite thing I've designed and printed so far. I also made custom tea containers that fit exactly within my Kanpai titanium thermos, so I can now carry about 50% more tea when I travel.</p>
+<p><strong>5. Helped my mom move from California to Texas</strong></p>
+<p>I've never been so grateful to be stuck in a car for 28 hours! This was the first time I got to leave my house in a month and I really enjoyed the trip. My flight home happened to be the slowest travel day of the entire pandemic and I had an entire Southwest 737 to myself. That was a truly surreal experience.</p>
+<p><strong>6. Boat upgrades and Lake Mead exploration</strong></p>
+<p>I've done a bunch of work on the boat while being here. The biggest things have been replacing the alternator (first real mechanical project I've ever done), replacing the fridge that I had previously broken, changing the lights to LED, replacing all four batteries and fixing the previous owner's poor wiring, and finding a good place to mount the barbecue grill. We've also spent a lot of time exploring new areas of the lake instead of just going back to our favorite place every time, and have found some incredible new spots that really change our experience out there.</p>
+<p><strong>7. Fixed my motorcycle and moved it to my brother's house</strong></p>
+<p>My motorcycle, last ridden in San Francisco years ago, had been sitting in Todd's garage here in Vegas. He sold the house but the tenant remained the same and he let me keep the motorcycle in the garage for years. My brother is an ex motorcycle mechanic and had space in his garage so we took it out of storage and fixed the sticking clutch so that it could be driven to his house and stored there. This had been bothering me for years, so it felt great to take care of it.</p>
+<p><strong>8. Installed a sauna in the house</strong></p>
+<p>My condo has a storage room near my front door that I have been filling ever since moving in. Most of the stuff in the back didn't really need to be there anymore, but there was no way to easily access it. So my wife and I took everything out, found better places to store it, and installed a sauna in the space. I was originally going to build my own Finnish sauna there, but decided to buy a premade one first to see if I even liked going to the sauna before committing that level of effort. So far I like it and am hoping that the purported health benefits are real, but I'm skeptical.</p>
+<p>I also custom programmed an arduino and light strip to make a James Turrell style light show during the sauna and plan on modifying the electronics to be controlled by my home automation system.</p>
+<p><strong>9. Replaced my dining room with a Chinese-style tea room</strong></p>
+<p>When I bought my condo it had two breakfast nooks, which is unusual for a small condo. One I built into a Japanese style two-mat tatami tea room. The other I used as a dining room, but since I eat Chipotle at my desk every day I never actually used that room. I've been wanting to do something different with it for ages, so I finally converted it into a Chinese style tearoom with a table. Now I have a relatively authentic Chinese tearoom and Japanese tearoom in my house. I may build a custom table for the Chinese one since it's very hard to find a shallow table that's the right height.</p>
+<p><strong>10. Moved Sett to a new server</strong></p>
+<p>Sett has run on its original AWS server for nearly a decade now. I had become afraid to upgrade any packages on the server for fear that it would break Sett, and I was paying more than $100/mo to run the server despite it being old, slow, and underutilized. I finally bit the bullet and spent about half a week moving the site to my own server and upgrading all of its dependencies. This went relatively smoothly except for a few parts. I also fixed a number of bugs (and still have a few left) and deleted over 100k spam accounts. I'm toying with the idea of removing crufty Sett features and then working on it again to make it even better. Going through the old code and fixing stuff made me warm up to Sett again.</p>
+<p><strong>11. Fixed my email spam system</strong></p>
+<p>I host my own email on my own server and at some point I realized that the spam system wasn't actually learning when I reclassified messages as spam or not-spam. It still worked reasonably well without that so I'd only dedicate a few minutes at a time to try to track down the problem, and inevitably I would think, "Well... it's not so bad..." and give up. I finally committed to fixing it no matter what and it took a few hours. The problem was a small typo, but it was hard to track it down.</p>
+<p><strong>12. Built the mega bed</strong></p>
+<p>I've always had either a full or queen sized bed, and always thought that it was big enough. However, over the past year or two I noticed that if I slept in the same bed as my wife for too many nights in a row I would begin to feel tired. One night apart and I would be back to my normal self. We had begun alternating sleeping together and sleeping in the guest room so that I could be well rested.</p>
+<p>I toyed with the idea of getting a king-sized bed, but we have a really excellent queen sized mattress that I didn't want to give up or spend the money to replace it. I finally came up with the idea to rotate the queen mattress 90 degrees and use it at the head of the bed. I could then cut a cheaper Amazon mattress to make a section for our feet. I also rotated the mattress frame to sit at the feet and built an extension for the head. I'm not sure how clear that description is, but the end result is that we have an 80x80 bed (4" wider than king!). I even found an oversized king down comforter and duvet, and standard king sheets stretch to fit the mattress (and to hold the two pieces together). The end result is amazing and I doubt anyone would realize it's not just one huge mattress. I've never slept better.</p>
+<p>--</p>
+<p>I'm really glad to have gotten all of these things done in the past 4 months. It's fun to look back at them since the beginning of quarantine feels like ages ago. I'm definitely running out of projects I've been wanting to do for a while, so we'll see what comes next!</p>
+<p>###</p>
+<p>I think there's a relatively good chance this post will be a little bit messed up, since I'm just now fixing Sett. Apologies in advance if you get multiple notifications for it, no notifications, broken links, etc. I expect to have Sett running better than ever within a week.</p>
+<p><a href="https://www.patreon.com/tynancom">I have a Patreon now</a>! If you get a lot of value from my work, consider supporting it.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/coronaprojects?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/coronaprojects?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1437119'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1437119"/>
+            ]]></content:encoded>
+            
+            <pubDate>Fri, 10 Jul 2020 12:30:04 -0700</pubDate>
+            <guid>http://tynan.com/coronaprojects</guid>
+          </item>          <item>
+            <title>Think Bigger to Motivate Yourself</title>
+            <link>http://tynan.com/bigger</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200704/RX506111b50eb989e359fbfc0476ff2f07e8131a_m.JPG">
+I see a lot of people struggle with motivation, especially those who are already doing well. That represents a big loss of potential, as those who have already achieved some level of success are demonstrably able to channel motivation into output. I have some ideas on wh]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200704/RX506111b50eb989e359fbfc0476ff2f07e8131a_m.JPG"></p>
+<p>I see a lot of people struggle with motivation, especially those who are already doing well. That represents a big loss of potential, as those who have already achieved some level of success are demonstrably able to channel motivation into output. I have some ideas on why this happens and also how to combat it.</p>
+<p>While I think that it's important to be able to work with as little motivation as possible, there's no point in making things harder than they have to be. Working is easier and more enjoyable when we are properly motivated, so learning to motivate ourselves is a valuable skill.</p>
+<p>It is possible, and maybe even preferable, to be motivated by work itself. I wrote a whole post called <a href="http://tynan.com/lovework">Love Work</a> about this many years ago. If you are not able to love your work and be motivated by it, you are definitely in the wrong field. However, all of us go through periods of time when our immediate tasks are not overly motivating. I spent the last two weeks totally rewriting code I had already written, which is really hard to get very excited about. </p>
+<p>Think of external motivation as the starter to your productivity engine. Work is usually most motivating when you're in the zone and in the middle of an interesting problem, but sometimes we need a push to get there.</p>
+<p>Over the past month I have probably watched <a href="https://www.youtube.com/channel/UCitH5iJ0s-YwbuAg3MIo4Aw">at least 50 reviews of yachts</a>. Some of them border on being affordable, but the majority are one or two orders of magnitude more than I could afford. I share a small boat with a friend and some of my most enjoyable times in the past year have been taking friends and family on the boat for one or two day trips. As I watch the yacht reviews I imagine being able to take my friends and family on trips that spanned a week or maybe even a month, cruising around the coast of Europe or hopping islands in the Caribbean.</p>
+<p>Is it a waste of time for me to be spending hours per month watching reviews of yachts I couldn't possibly buy? I don't think so. </p>
+<p>Watching yacht videos makes me motivated. I know that the only way I could ever get one is if I work really hard and create a lot of value for a lot of people. I will never be able to afford one on my current trajectory, so I must level up.</p>
+<p>It's important to want something that you don't already have. It doesn't have to be a big fancy yacht. It could be new knowledge, prestige, respect, the ability to donate a huge amount of money to a cause you care about, or anything else.</p>
+<p>Most people start out with wanting things like financial stability, a good living situation, and maybe a nest egg for security. Those are perfect goals, but once you achieve them you have to find something new. Like so many things, what got you from point A to point B may not be the same thing that will get you to point C.</p>
+<p>There's the idea that wanting things is not good and that you should be satisfied with what you have. I think that this is half true. You shouldn't be merely satisfied with what you have, you should be ecstatic! Humans came into this world living in the wild fighting for our lives, so anything above that (and even that, really), we should be grateful for. If you never get anything else in life, you should be more than satisfied.</p>
+<p>However... that doesn't preclude us from wanting things. We humans have created so many cool things (I mean seriously... just watch a yacht video), so why not be excited about those things? The best state to be in is to need nothing, be extremely happy with what you have, and still want a lot more.</p>
+<p>Isn't a yacht very materialistic? Sure. What I've found best motivates me is sharing experiences with people close to me. I love showing people my favorite cities (and, even better, hosting them there), teaching people cool things I've learned, or buying fixed assets that I can enjoy but also share with others. The best part of the island isn't going there by myself, but being able to share the experience of staying on a private island with others.</p>
+<p>It would be nice if my primary motivator was ending global poverty or something, and maybe those who are motivated most by that are better people than I am on balance. However, I'd rather figure out what actually motivates me so that I can use it to produce good work than try to convince myself I'm motivated by something more altruistic. It's just more effective and honest.</p>
+<p>It also doesn't really matter if you ever get the things you use to motivate yourself. They're just tools and you'll change anyway. For years I was so motivated to work because I wanted to buy an airplane (Mooney M20J or M20K), but then when I got to the point where I could reasonably consider it, I lost all interest. The point isn't to actually get the things, it's to gain the ability to get them.</p>
+<p>I think people feel bad about dreaming big these days. Wealth inequality is certainly too high, but rather than aspire to make it to the top and raise the floor for everyone else, we sometimes demonize those at the top (which isn't to say that some don't deserve it...). </p>
+<p>Love work for its own sake, appreciate what you already have, and don't become such a workaholic that you miss out on the joy of life. But also: think big. What would be worth working really hard for? What would get you out of bed in the morning eager to work? You don't have to share your motivation publicly or even be proud of it. First find it, then channel it into great work, and then on the side think about what it is you want and examine the underpinnings of the desire. </p>
+<p>###</p>
+<p>Photo is our not-quite-a-yacht at Lake Mead.</p>
+<p>I started a <a href="https://www.patreon.com/tynancom">Patreon Account</a>. I'll write a post about it in the next couple weeks, but I figured I'd force myself to link it today because I'm sort of uncomfortable with the idea. Please feel no obligation at all to donate... I'll be fine either way. If you want to donate to show your appreciation for the work I do, I really appreciate it. I made a somewhat arbitrary cutoff at $20 to create a group of people for whom I'll try to do some special stuff (though what that is will depend on the size of the group, who they are, etc.), but you can choose any amount.</p>
+<p>I think I've finally figured out the Sett performance issues that keep taking the site down. If not, I'll probably either commit to fixing it or switch to another platform(!)</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/bigger?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/bigger?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1436919'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1436919"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 04 Jul 2020 13:58:11 -0700</pubDate>
+            <guid>http://tynan.com/bigger</guid>
+          </item>          <item>
+            <title>How To Make Amazing Friends</title>
+            <link>http://tynan.com/excellentfriends</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200627/RX506119eb8985954ea119424c0c0dfd91a4823c_m.JPG">
+A reader emailed me recently and asked how I'm able to have such a great group of friends who are so adventurous and into crazy ideas like buying an island and other properties around the world. I certainly don't take my friends for granted, but because I'm surrounded by]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200627/RX506119eb8985954ea119424c0c0dfd91a4823c_m.JPG"></p>
+<p>A reader emailed me recently and asked how I'm able to have such a great group of friends who are so adventurous and into crazy ideas like buying an island and other properties around the world. I certainly don't take my friends for granted, but because I'm surrounded by them constantly I do sometimes forget just how unusual those types of people are.</p>
+<p>I've said it a million times, but I do feel as though my greatest assets in life are my friends and family. This is, or at least should be, true for almost everyone because no other part of your life has the potential to bring as much joy as other people.</p>
+<p>And yet... people don't really think much about friendships or put all that much effort into them. Think about how much proactive time and effort people spend on their careers compared to the people around them. Career is important, but not as important as people, and yet most people are far more eager to work on their career.</p>
+<p>If you want to have an excellent group of friends, you must commit to that goal and be willing to work towards it, not just hope it happens (spoiler: it probably won't). </p>
+<p>I've <a href="https://www.amazon.com/Superhuman-Social-Skills-Likeable-Building/dp/1515179877/?tag=tynan-20">written a whole book on the topic</a>, as well as many other blog posts, so I won't get too into the mechanics of what that work looks like, but the key points are that you decide to take responsibility for your social life, work on it consciously, and make sure that you are improving your friends' lives in a tangible way as often as possible.</p>
+<p>That's how you make friends... but how do you make excellent friends?</p>
+<p>First, in the words of Bill and Tedd: be excellent. If you aren't the type of person that excellent people would want to be friends with, then you need to work on that first. This requires the ability and willingness to self-assess honestly. What do you bring to the table? If you don't know, then that's a problem. Would someone be lucky to have you as a friend? That answer must be a clear yes, and getting there is a combination of working on yourself and also having the self-esteem to see your own worth.</p>
+<p>I understand that this sentiment may not sit well with everyone, as it's not entirely politically correct. Yes everyone has value, yes everyone deserves to have good friends, etc. But still... let's not pretend that some people haven't developed their character and social skills to higher levels than others.</p>
+<p>So... be excellent.</p>
+<p>Next, understand what it is you actually want in friends and screen heavily for those traits. You can be kind to everyone and respect everyone, but you cannot be a great friend to everyone. Being a good friend is an active process which requires time and effort, and we each have those in finite supply. Any friend who is taking up a slot in your roster is precluding other people from taking that spot.</p>
+<p>Be intentional about how you spend your time. If you find that most of the time you spend is with people who aren't the types of people with whom you want to be friends, you are making a mistake. If you aren't seeking out the types of people with whom you want to be friends, you are making a mistake.</p>
+<p>It is better to be alone than to be around the wrong people. In the same way that boredom spurs creativity, some degree of loneliness can fuel the process of building a great friend group. You don't have to totally cut everyone off and be a hermit, but don't fill your social calendar with the wrong people.</p>
+<p>This process, by necessity, is a slow one. It is much easier to find the wrong people than the right ones. When I went through this process I remember feeling like I had a few great friends floating around the world, not a rock-solid friend group. But as I added people and introduced them to each other, that slowly congealed to feeling like I have an amazing worldwide network of incredible friends. Be patient, because the results will be worth it.</p>
+<p>Your time and focus is an extremely valuable resource. If you don't feel that that is true, then you should look inwards and maybe use your time and focus better. When you're around people, be excellent to them no matter who they are, but also treat your time like the valuable commodity it is, and spend it with those people with whom you'd like to grow closer.</p>
+<p>###</p>
+<p>Photo is Lake Mead at sunset. Did you know Vegas could be so beautiful?</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/excellentfriends?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/excellentfriends?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1436539'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1436539"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 27 Jun 2020 12:37:04 -0700</pubDate>
+            <guid>http://tynan.com/excellentfriends</guid>
+          </item>          <item>
+            <title>Enjoying Paying for Value</title>
+            <link>http://tynan.com/payforvalue</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200620/20200613102256399f365093f479279a1cf8344dc8db48_m.jpg">
+Beginning around high school, one of my major core values was paying the least possible amount for everything. I was always trying to figure out how to get things for massive discounts or to orchestrate some complex trade so that I got whatever I wanted for free in the e]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200620/20200613102256399f365093f479279a1cf8344dc8db48_m.jpg"></p>
+<p>Beginning around high school, one of my major core values was paying the least possible amount for everything. I was always trying to figure out how to get things for massive discounts or to orchestrate some complex trade so that I got whatever I wanted for free in the end. I got so good at it that my first real income-producing business was in high school when I was buying and selling Palm Pilots and Apple Newtons. I started that business with the purchase of a $70 Newton and never invested more outside money into it.</p>
+<p>Being frugal can be good. At it's best, being frugal is the practice of deciding whether you actually need something or not, whether it will be worth it to you, and carefully stewarding your money. Most people should probably be more frugal.</p>
+<p>Over time, however, I realized that my frugality had turned into something different. I felt as though I didn't win unless someone else lost. When I went to a buffet, it was important to me that I ate so much that the casino lost money on me. Either I was the sucker or they were the sucker, and I didn't want it to be me. One of the best things at the Bellagio buffet was the pesto mashed potatoes, but I would only allow myself tiny amounts of them because I didn't want to fill up on cheap potatoes.</p>
+<p>My business immediately after the Newton trading business was professional gambling, which was very much a win-lose situation. The casinos were trying to force me to lose and I was trying to do the opposite to them. The experience of being a professional gambler was very valuable to me, both financially and mentally, but I wonder if it helped ingrain into me that idea of not wanting to enrich companies.</p>
+<p>I'm not sure what changed my mind on this. Maybe it was just a natural product of maturation, maybe it had something to do with me selling things to people, or maybe I just became less poor and had the luxury of not having to fight for every penny.</p>
+<p>I first realized that I had changed when my second favorite teashop in Budapest, Marumoto, shut down. I loved that place and it provided so much value to me, actually increasing the amount that I enjoyed Budapest by at least 5-10%. That's a lot for one little tea shop! When they announced that they were shutting down, my first thought was that I would have happily paid double their prices if they would just stay open. I even talked to a local entrepreneur to see if he would help me run the tea shop if I bought it, thinking I could probably buy it pretty cheaply and just run it at break-even. To this day I think about opening a Japanese tea shop in Budapest just to recreate the magic of that place (and maybe even improve upon it!).</p>
+<p>I subscribed to my first Patreon a few months ago, which is the ultimate example of unnecessarily paying for value. It's just a few dollars a month, but I like the idea that if a bunch of us pay, this open source developer can have more freedom to work on whatever he wants. Subscribing made me want to find other Patreons to support. (Side note, people always tell me that I should start one. I used to not like the idea but now that I'm on the other side of the equation I'm considering it.)</p>
+<p>A while back I was listening to a podcast and the host was talking about his friend who owned a mechanic shop. It was an expensive shop that was known for doing really good work. He had his guest guess how much money his friend made. The answer? About $85,000 a year. That's a good income, but that's not a ton of profit per customer. Due to how capitalism works, most things are priced not far from their value. If car repairs are expensive, that's because it costs a lot to make car repairs, not because it's an easy way to rip people off.</p>
+<p>Earlier this year our boat needed a whole new engine, which cost about $10k. It sucks to have to replace an engine, of course, but I noticed that I didn't really mind paying for my half of the repair. The marina pulled the boat to the dock, trailered it, brought it to their repair shop, replaced the engine, and then put it back in the slip when they were done. Instead of focusing on the cost, I focused on the value. I couldn't build an engine. I couldn't even get the old one out (in fact, thinking about it more, I have no idea how they pulled such a huge engine out through the hole in the deck). And on top of all that, I didn't even have to go down in person once to deal with it. That's a great compilation of value, and I'm happy to pay it.</p>
+<p>I'm still frugal and I still like to get a good value, but now I want the person selling the good or service to me to get a good value, too. I pay for more services now and I feel better buying things than I used to. I think of it as collaborative-- I'll buy this product so that the seller is incentivized to keep doing what they're doing and maybe even make better things down the road. Maybe everyone reading this already thinks this way, but it took me a while to get here and I find that it really reduces friction in how I think of spending money.</p>
+<p>###</p>
+<p>Photo is of the tea room of the tea school in Vegas. Classes just started again and I'm really grateful to be able to take them again. Incidentally, it occurred to me during the last class what an incredible value those classes are.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/payforvalue?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/payforvalue?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1436118'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1436118"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 20 Jun 2020 11:25:43 -0700</pubDate>
+            <guid>http://tynan.com/payforvalue</guid>
+          </item>          <item>
+            <title>Reflections on 90 Days of Not Traveling</title>
+            <link>http://tynan.com/quarantine</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200613/20200605210850fe1ea4dcb13148fbc37362e70367781b_m.jpg">
+I don't keep very close track, but last year I went through emails and discovered that I had purchased about 100 plane tickets for that year. Many were short hops to reposition and sometimes one trip would be three different tickets, but still-- that's a lot of travel. A]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200613/20200605210850fe1ea4dcb13148fbc37362e70367781b_m.jpg"></p>
+<p>I don't keep very close track, but last year I went through emails and discovered that I had purchased about 100 plane tickets for that year. Many were short hops to reposition and sometimes one trip would be three different tickets, but still-- that's a lot of travel. And now, I've flown twice in the past three months. Once to help my mom move across the country and once to visit some quarantining friends in Florida. </p>
+<p>If you'd asked me a year ago what the chances were that I would fly only two domestic trips in three months, I would have said about zero. And yet... here we are.</p>
+<p>It's rare to get such a big change in behavior, so I thought I'd write about a little bit, as much for future me as for you.</p>
+<p>The biggest surprise is that I really like it. The first week or two was novel. The next two weeks had me searching the map to see if there was anywhere I could justify going, knowing that the answer was no. And since then I've been loving it. Paradoxically I can't wait to travel again and know that I will as soon as I can, but I also sort of hope the lock down keeps going for a while.</p>
+<p>I talk a lot about routines, but my main reference points with them were in the past. I sometimes felt a little bit weird prescribing routine to solve peoples' problems, while knowing that I wasn't in much of one myself. Now I have an incredible routine where all I do is drink tea, work, work out, eat Chipotle, use the sauna, read, and go to sleep. I feel amazing all the time and love tweaking my routine in ways you can only really do when you live with it for months.</p>
+<p>I'm more productive than I've been in years, in the best shape I've been in years, am reading more than I have in years, etc. I got off of my strict routines for travel, then brought them back partly by cruising a lot (best routines ever there!) and buying a bunch of home bases with my friends, but it's sort of obvious that that only gets me to about 60-70% of how good routines can be.</p>
+<p>Also in the same way that I like eating the same thing every day and wearing the same clothes every day to avoid thinking about things that don't matter, I like that for the most part I have no choice in what to do with my day.</p>
+<p>Last, my wife and I have been able to spend a ton of time together. It's definitely the most contiguous time we've ever spent together, and it's been really good for us. We've always had an excellent relationship, but I think the constant interaction forced us to iron out a few details that will be good for us going forward.</p>
+<p>My plans before quarantine all seemed so important and immobile. It was pretty amazing how easily they were wiped away and how few consequences there were.</p>
+<p>So that's the good stuff. I'm not sure exactly how I'll integrate it into my life going forward, but I think I may force myself to spend at least one month in Vegas with no trips per year. Even having not traveled for three months that feels crazy, but I think it's probably the right thing to do. </p>
+<p>The biggest downside is that my world feels so much smaller. I've been traveling virtually non-stop since 2008 or so, and I forgot what it was like to not travel. Especially with our home bases in different places, I feel isolated from communities I care about. I missed the entire spring in Budapest and didn't get to see any of my friends there. I was lucky enough to go to Hawaii and Japan right before this all started, but I miss going to Hawaii every month or two for my tea classes. We're into island season already and I'm not sure I'll even get to go once this year. I'm dying to see how the forest is and see all of the people we know there.</p>
+<p>I'm generally pretty introverted and am totally content by myself, but most of my social time is traveling with friends and it's weird to basically not have that for a quarter of a year. More productivity, but just about zero shared experience.</p>
+<p>CruiseSheet is in a coma. It was doing really well and then... we spent about a month refunding everyone's cruises. People are starting to book a few future cruises now, but it's a just a trickle of business. I'm not too worried about its long term prospects and I don't mind the lost income too much, but it's not very exciting to work on a business where I know nothing I do is going to move the needle for a very long time. Recently I've been using the time to read more about coding and become a better coder.</p>
+<p>I think I'll probably start traveling again whenever borders open. I've got a cruise booked for the fall which I hope will sail. I really hope I can visit the island at least once this year and I'm dying to get back to Budapest, mainly because I walk so much when I'm there and Vegas in the summer isn't much of a walker's paradise. I don't usually crave going to China but for some reason I've been thinking a lot about going there.</p>
+<p>Overall the quarantine is a mixed bag, but that doesn't mean we can't make the best of it. I suspect that I'll look back fondly on it and wouldn't be surprised if I considered it to be one of the best eras of my life. Of course, it's a lot easier to think of it that way when you're eating lobsters on a cruise ship...</p>
+<p>###</p>
+<p>Photo is a terrible photo of the moon from a night cruise on Lake Mead. Sorry! I don't leave the house much so there's not much for me to take photos of. Expect a lot of Lake Mead photos...</p>
+<p>Sorry that my blog has not been consistent. I've been putting off writing and have been battling with Sett (that's why you either got a zillion notification emails for the last couple or none...). I think one of my next quarantine projects might be to either rework parts of Sett or write a new blogging platform just for me. I'm 50/50.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/quarantine?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/quarantine?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1435687'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1435687"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 13 Jun 2020 08:30:00 -0700</pubDate>
+            <guid>http://tynan.com/quarantine</guid>
+          </item>          <item>
+            <title>What I've Learned By Doing the NY Times Crossword 800 Days in a Row</title>
+            <link>http://tynan.com/crossword-lessons</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200605/20200513162550e77aa99c1bb01c5fb00d34c1a98802ae_m.jpg">
+Before getting into this post, I should come clean: there was actually one friday about 450 days ago where I thought that I had already done the day's puzzle but I hadn't. So far that reason I haven't actually done the puzzle 800 days in a row, but rather 800 days with o]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200605/20200513162550e77aa99c1bb01c5fb00d34c1a98802ae_m.jpg"></p>
+<p>Before getting into this post, I should come clean: there was actually one friday about 450 days ago where I thought that I had already done the day's puzzle but I hadn't. So far that reason I haven't actually done the puzzle 800 days in a row, but rather 800 days with one day missing. Ok, it feels good to get that off my chest.</p>
+<p>Three years ago my family came to visit me in Budapest. My younger cousin, with whom I tend to be both cooperative and competitive with on just about everything, had printed out a few crosswords to do on the plane. I immediately felt that if she was getting into crosswords I should also get into them, so we started doing puzzles together. The New York Times puzzle ranges from Mondays (easy) to Saturdays (hard). We were doing Tuesdays and Wednesdays with some difficulty, but it was a fun challenge.</p>
+<p>Fast forward a few years and we both do the puzzle every single day (except that one Friday) and we share our times with each other. The rules are simple: no cheating, no using the built-in check or reveal feature, and the puzzle must be done before midnight EST. At first my extra ~15 years of experience on this earth played to my advantage and I would beat her almost every day. Now her intelligence and quickness has overcome that advantage and I win 1-2 times per week average. Some weeks I don't win at all.</p>
+<p>Even if I'm not able to beat my cousin, I'm pretty good at crosswords these days. The last time I wasn't able to solve the daily puzzle was over two years ago, and my median times range from around 3 minutes for a Monday to 10-15 for a Saturday (lots more variance there, so I'm not sure). Besides being a lot of fun to do the puzzle (just like my daily Chipotle, I look forward to it all day), I've learned a lot through doing the puzzle.</p>
+<p>The biggest thing I've learned through doing puzzles is that any problem can be solved with enough time if you have a good attitude. The NY Times Crossword app or site will not give you a gold star unless you do the puzzle before midnight with no errors and no cheating. At first this doesn't matter very much, but as your streak extends you feel a lot of pressure to get the puzzle right. In practice that means that you can be totally stuck staring at a 75% complete puzzle, have no leads, not recognize any of the clues, and you still have to sit there and try to work it out because... what's the alternative?</p>
+<p>Though my average times are pretty good, there have been around 10 puzzles in the past couple years that took me over an hour to do. A few took two hours, maybe more. And yet, every time I was able to solve it in the end. </p>
+<p>This has given me a sense of omnipotence. At first those puzzles scared me, but now I look at them and think, "Ok, well, it's just a matter of time. Keep working on it." This translates to my other work as well, and it actually feels sort of similar to debugging a program. Outside of crosswords, my tolerance to just sit and work on a problem has certainly increased. Overall this is good, but my friends might argue that it's not so great when we are stuck in an escape room and I don't want to take any hints even if it means only seeing 1/3 of the room.</p>
+<p>Another interesting phenomenon is what happens when I start a Saturday puzzle. On a Monday I'm spending about 1.25-1.5 seconds per clue, which means that most of them I just know right off the bat. "Icy precipitation"? Sleet. Saturdays are different. On a Saturday puzzle I may go through all 100-130 clues and only know one. Sometimes I go through and don't know any of them with certainty. This can be incredibly daunting because you think, "I know less than 1% of the answers, but I still have to complete this thing perfectly and also try to beat my cousin, which is probably not going to happen."</p>
+<p>The amazing thing, though, is that you can build off such a tiny start. I put in a guess and then try to work the crosses. If a few of theme seem right I might try the words that cross them. Before I know it, I have a corner mostly filled out. Ten minutes later the whole puzzle is done and it doesn't seem like such a tough puzzle anymore.</p>
+<p>When we do projects in real life it's easy to get discouraged by the enormity of reaching our end goal. I've learned from doing crosswords that even the smallest little start can snowball into success. When I have a big project in front of me I just think, "ok, i'll do what I can to start and take it from there", and it inevitably isn't as hard as I expected.</p>
+<p>Crossword puzzles are really great for the mind and are a neat little microcosm of bigger challenges. They're fun, but you can also use them to look inwards at how you tackle problems and deal with challenges. And, with all of us being relatively quarantined still, there's probably no better time than to get into them. My recommendation is to play the NY Times crosswords, start with Mondays and let yourself cheat at first to understand how crosswords work. Once you can solve Mondays without cheating, move on to Tuesdays, and so forth. As you get better, be more reluctant to cheat. By the time you get to Thursday you will need to start forcing yourself to work at it longer.</p>
+<p>###</p>
+<p>Photo is a cool lizard we saw drinking at Lake Mead.</p>
+<p>Sorry my blog has been acting crazy recently. I know a lot of people got tons of emails last week and I'm sorry for that. I'm trying to avoid getting deep into Sett again but I may have to spend some time fixing some bugs.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/crossword-lessons?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/crossword-lessons?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1435282'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1435282"/>
+            ]]></content:encoded>
+            
+            <pubDate>Fri, 05 Jun 2020 13:31:51 -0700</pubDate>
+            <guid>http://tynan.com/crossword-lessons</guid>
+          </item>          <item>
+            <title>Long Term Valuable Output</title>
+            <link>http://tynan.com/valuableoutput</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200530/202005141217284e871a422c2fdc3763aa7278ebd7f483_m.jpg">
+There was a time in my life when I was singularly obsessed with output. I rated my days in terms of how much output I had produced that day and tried, within reason, to limit anything that did not produce output. It felt great to do this, as I had previously not been par]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200530/202005141217284e871a422c2fdc3763aa7278ebd7f483_m.jpg"></p>
+<p>There was a time in my life when I was singularly obsessed with output. I rated my days in terms of how much output I had produced that day and tried, within reason, to limit anything that did not produce output. It felt great to do this, as I had previously not been particularly good at producing output, and it was completely within my power to make any day into a good day.</p>
+<p>Over time, both in myself and others, however, I noticed that high output didn't always lead to achieving goals. It was certainly better than not producing output, but I had a persisting feeling that my results weren't as good as they should be. I now have a more balanced approach and I my results towards goals now seem disproportionately good compared to my output.</p>
+<p>If you don't feel like your results reflect your output or you are trying to figure out how to get started at being more productive, I have some suggestions based on my own experience.</p>
+<p>It's important to realize that what you create when you are at your best will be many times more valuable than what you create at average or worse. Sometimes work created can even be a net negative. For example, if I force myself to write a blog post when I'm not at my best, maybe it will be unclear and actually turn people off from reading future posts. If I write some crappy code, maybe I'll have to spend hours in the future chasing down a bug that could have been avoided in the first place. </p>
+<p>Therefore it's sometimes best not to work, and it's always beneficial to do things to be at your best. Also, effort spent getting yourself to a better state can be more valuable than work itself.</p>
+<p>It's for this reason that I always try to get people I coach to take care of the fundamentals. Sleep is one of the biggest factors. I sleep an average of eight hours a night and frequently (like last night) sleep over nine hours to catch up if I'm not at my best. I drink tea and eat healthy food every day. I work out every other day. Recently I've started going into the sauna every day (no verdict yet on whether it has any effect). </p>
+<p>At the very least, you should be sleeping as much as your body needs (no alarm clock), drinking a lot of water, eating healthy food, and doing some sort of exercise.</p>
+<p>It's also important to optimize your workspace as much as possible. Get a huge monitor, a comfy chair, and a nice desk. Get some plants. Spend the time customizing your computer to make it easy and efficient to use. These are basic things but they really matter a lot.</p>
+<p>An undistracted mind is one which can work most efficiently, so automate and delegate everything you can. You should focus on your work not through force of will, but because you've eliminated everything that can distract from it.</p>
+<p>It's a random estimate and varies from person to person, but I'd guess that with changes like that you can get from being in "the zone" 10% of the time to 50%+. In other words, it really matters.</p>
+<p>When you sit down to work, your task must be connected to a goal that matters to you and it must be an effective lever. With a tinge of shame I can think of so many weeks and months I spent on various features of Sett that no one, including myself, ever really used. I was sometimes working with the goal of producing a big piece of work, rather than thinking about why I wanted Sett to exist, how I needed to reach those goals, and which steps would be required to get there. I don't know whether or not Sett would have succeeded if I had thought more about these things, but it would have had a better chance.</p>
+<p>Once you start a task, you are precluding yourself from working on other tasks during that time and are also possibly adding future responsibilities. If I start writing a book, I am obligating myself to designing a cover, laying the book out, and entering it into Amazon. If I create a new software feature I am obligating myself to fix any resulting bugs and to support that feature going forward.</p>
+<p>For that reason, it is important to do tasks that matter and will get you closer to your goals, not just to do tasks. Sometimes it's better to do nothing but ponder why you're doing what you're doing and what the best next thing to do is. People are so afraid of being idle and bored that they don't give themselves time to plan and build the confidence that the output they're creating actually matters.</p>
+<p>When you are at your best and are working on something that matters, that's when it's time to step on the gas and work hard. The amount of valuable output you can create in even 4-6 hours of peak performance can be better than days or even weeks of mediocre output. If you're not sure if you're at your best, act like you are and work hard anyway. Understand the state you're in and do a task that will best use your present capabilities. If you're not at your best, don't use that as an excuse to watch TV, instead clean your house or organize files or something else productive. </p>
+<p>Start with your end goal in mind, figure out what output will be needed to get there, and then optimize your life around being able to produce that output. Don't burn yourself out, as short term gains are never worth the sacrifice of long term gains. Work for to achieve an outcome, not to feel busy.</p>
+<p>###</p>
+<p>Photo is an aerial view of Lake Mead. I miss being on airplanes!</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/valuableoutput?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/valuableoutput?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1435255'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1435255"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 30 May 2020 14:39:51 -0700</pubDate>
+            <guid>http://tynan.com/valuableoutput</guid>
+          </item>          <item>
+            <title>Create a Stable Life, not a Stable Job</title>
+            <link>http://tynan.com/stable</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200523/20200520143448781f086c40e9f7612fb2391b8e57717a_m.jpg">
+Just a few months ago I was talking to a new flight attendant about her job. I remarked at what a stable job it was, since people always need to fly, they have strong unions, and the airlines are big. Now she's waiting to be furloughed once the conditions of the bailout ]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200523/20200520143448781f086c40e9f7612fb2391b8e57717a_m.jpg"></p>
+<p>Just a few months ago I was talking to a new flight attendant about her job. I remarked at what a stable job it was, since people always need to fly, they have strong unions, and the airlines are big. Now she's waiting to be furloughed once the conditions of the bailout money allow it. Luckily she has a very stable financial situation and life, so being furloughed won't have a huge effect on her, except for putting her career on pause.</p>
+<p>Life is full of people chasing the ghosts of things that used to exist. Just look at those who want things to be like they were in the 50s. One such ghost is a stable job. There are relative degrees of stability, and I'm sure there are some jobs that are still mostly stable, but the average job in the US these days is not stable. If you value stability there's nothing wrong with looking for the most stable job you can find, but you must accept that it may disappear.</p>
+<p>Before you join the ranks of those who want to go back to the 50s, think about what this loss of stability has given us. Now we have way more flexibility and the ability to create our own jobs through entrepreneurship or gig working. It's not good or bad, it's just different.</p>
+<p>Most people build lives around the presupposition of a stable job. They save very little money and think of their salary as monthly credits which they can use to pay off financing for whatever it is they want to buy. This works pretty well as long as they keep their job, because it's a very easy formula (money in = money out) and it allows them to maximize their immediate pleasure.</p>
+<p>What happens when they lose their job? Well, about 1/3 of my state, Nevada, is finding out right now. I believe that people are resilient and will figure out how to survive, but there's no denying the stress of the situation. </p>
+<p>You can't control the stability of your job, but you can control the stability of many other factors in your life. Relying on a stable job creates a single point of failure, but creating a stable life affords you resiliency and flexibility. </p>
+<p>My cruise business, <a href="http://cruisesheet.com">CruiseSheet</a>, is my biggest source of income and was affected dramatically due to COVID-19. Not only did sales drop to zero, everyone canceled their cruises, so my income looked like someone just added a negative sign before the usual number. It's not accurate to say that I don't care, because I like my business and want for it to succeed, but I didn't worry for even a moment. </p>
+<p>If you have good enough shocks, you can't feel bumps in the road. You might still try to avoid them, but when you hit them you barely notice. Having a stable life creates big shocks.</p>
+<p>So how do you create a stable life? First, minimize your housing costs. Housing costs are the least flexible costs that most people have and they're also generally the largest. Way too many people live in expensive cities. Did you know that you can buy a fixer-upper 5 bedroom mansion for under $100k in many areas of the country? There are plenty of places where you can rent an apartment for $500 or so a month. People feel entitled to live in expensive cities, and while you're certainly entitled to try, it doesn't mean that it's a smart thing to do.</p>
+<p>When you expand your search area beyond the five most popular cities in the US you drastically expand your options. It takes a little more searching and research to figure out where is a good fit, but I suspect that most people could find a city that would suit them better than a top five city. If you live there for a year or two and don't love it, great. You saved thousands of dollars and will have an easier time in your next place. And if you do like it, you might be able to buy a house in cash within a few years and never pay for housing again. How's that for flexible?</p>
+<p>My house in Las Vegas literally cost about 1/40th of what it would cost in San Francisco. At the time I would have certainly preferred to be in SF, but I could easily recognize that it wasn't 40x better than Las Vegas. Now that I've gotten to know the city I wouldn't move back even if the price was exactly the same.</p>
+<p>Beyond housing, don't finance things. Pay cash or go without unless it's an absolute necessity. Build up savings, not because you know what you want to spend it on some day, but because you don't. Just like those car shocks, flexibility is stability. </p>
+<p>Finances are a large part of stability, but they aren't everything. Create emotional stability so that you can weather storms and be happy no matter what happens. Create a stable friend circle so that you have people to turn to if you need to. Learn an array of valuable skills so that if your industry dies you can move to a different one. Learn skills like writing and social skills which will help you in many areas. Always improve your health so that you can be at your best and avoid medical bills.</p>
+<p>Create a life where it doesn't matter if your job is stable or not. A litmus test could be whether or not you could live the exact same life for a year if you had to spend the whole year job searching. That sounds out of reach for most people, but that's only because most people have created precarious lives. Spend the next five years creating a stable life that can weather any storm, and enjoy the benefits of it for the rest of your life.</p>
+<p>###</p>
+<p>Photo is a from a hike in Zion last week. It felt amazing to be out in nature and moving around a bit.</p>
+<p>I disabled comments a while back due to spam but I answer questions on <a href="https://twitter.com/tynan">twitter</a> and I also have <a href="https://instagram.com/tynancom/">instagram</a>.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/stable?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/stable?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1434892'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1434892"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 23 May 2020 11:56:17 -0700</pubDate>
+            <guid>http://tynan.com/stable</guid>
+          </item>          <item>
+            <title>3D Printing</title>
+            <link>http://tynan.com/3d</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200515/202004090057234f51fe1c6cf2312794bba2db666a21e8_m.jpg">
+When I first began quarantine I was extremely productive. I rewrote some big parts of CruiseSheet and got a lot of work done. Then after a week or so I had cleaned out my backlog of tasks and, with cruise sales down about 100%, wasn't coming up with any pressing tasks to]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200515/202004090057234f51fe1c6cf2312794bba2db666a21e8_m.jpg"></p>
+<p>When I first began quarantine I was extremely productive. I rewrote some big parts of CruiseSheet and got a lot of work done. Then after a week or so I had cleaned out my backlog of tasks and, with cruise sales down about 100%, wasn't coming up with any pressing tasks to add to my list. I needed a new project.</p>
+<p>For over a year, way on the backburner, I've had a project of building the world's most realistic LED candle. Over the past few years I've bought just about every possible contender on Amazon and found them to be pretty bad. Some have good color tone but flicker to much, others flicker appropriately but are orange, some have little movable wicks but cast weird shadows. I have one I programmed and built myself, but it's just a circuit board with wires dangling off of it. Maybe, in quarantine, it was time to build the exterior shell of it.</p>
+<p>I've been interested in 3D printing for a while but was worried that if I bought a printer I would use it for a few days to print some of the standard stuff others had already made, and then it would just sit on my desk forever. The only friend who had one did exactly that and had only recently thrown the thing away. But I figured with at least one concrete project to do and a luxurious amount of free time, it was a good time for me to give it a try.</p>
+<p>At the same time I saw a deal for a Monoprice Ultimate Maker (which is a rebranded Wanhao Duplicator 6), so I bought it. At the time I figured that any 3D printer would be good enough to make such a basic little project, so I didn't do much research.</p>
+<p>I unboxed the printer and printed a little test print of a batman logo that was already loaded on the printer. I was fascinated by the process and surprised at the high quality of the plastic. For some reason I had a preconception that it was crappy plastic.</p>
+<p>Test print out of the way, I had to learn how to actually build something. I had never used CAD before, so I did a little bit of research. It seemed like the best option for Linux users is FreeCAD, so I downloaded that and watched some tutorial videos.</p>
+<p>I think my jaw was dropped for most of the tutorial watching. I had never concieved of the idea of parametric modeling, that you could specify the dimensions and relations of various parts of the model and have them remain constant while the rest changed. For example, I could specify that the hole that the wick would come out of would always be 2.5mm wide, and that the outer shell and inner shell would always be 1mm apart from each other. It was a totally new way to look at creating something.</p>
+<p>Over the next few days I must have printed 50-100 candle shells, each time making small tweaks and modifications. I experimented with fiber optic channels to carry light, different charging options, creating wax molds to coat the candle in wax, and any number of other ideas. It's very empowering to be able to have an idea, make a few changes, and then hold those changes in the physical world.</p>
+<p>Once I'd gone through this process it took hold in my brain and everything seemed like an opportunity to design something new. When I fill up my Teforia tea machine in the morning some of the tea falls on the counter sometimes, so I made a simple funnel to more easily fill it. </p>
+<p>When I first got my Snow Peak Kanpai water thermos I had bought every possible plastic case from Amazon to find the one which would best fill the space. I found a good one, but it wasn't perfect. So I spent a few days learning how to design screw threads and made some that fill the space exactly. Now I can carry almost twice as much tea with me, which will really impact my life once I'm able to travel again.</p>
+<p>One day I wished I had another incense holder, so I printed out a design that someone else had made. It was a standard design with a hole that you put the stick in. At the end I was annoyed that I had to pull the little unburnt stub out of the hole and thought that there must be a better way to make an incense burner which would automatically discard the stub. A couple hours later I was holding one in my hand that I had invented, and about a day later it actually worked well.</p>
+<p>Having a 3D printer, and the skills to be able to design 3D items now feels like a totally essential part of life. I routinely print out little things that I would have otherwise had to buy or go without. As a natural born maximizer, I'm able to make things exactly how I want them, which I find incredibly satisfying. If you're the tinkering type, you might want to buy one too. If you aren't going to design stuff yourself, it's probably not worth it.</p>
+<p>I'm very happy with the printer I got, especially because I have upgraded most of it (firmware, dampers for motors, hot end, extruder, Z-coupling, nozzle, etc). To save you some research, it seems like Prusa printers are the gold standard, but Creality Ender printers are the best bang for your buck.</p>
+<p>###</p>
+<p>Photo is one of my latest candle designs, though I have some big changes planned. I just thought it was a good example of the sort of complexity that is pretty easy to do in 3D printing.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/3d?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/3d?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1434479'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1434479"/>
+            ]]></content:encoded>
+            
+            <pubDate>Fri, 15 May 2020 09:40:09 -0700</pubDate>
+            <guid>http://tynan.com/3d</guid>
+          </item>          <item>
+            <title>Thinking about Politics</title>
+            <link>http://tynan.com/politics</link>
+            <dc:creator><![CDATA[Tynan]]></dc:creator>
+            <description><![CDATA[
+<img src="http://cdn.sett.com/images/user/20200509/20200507180304ca549909ae2b8d113a13b908a0051a47_m.jpg">
+I have almost no interest in politics, but I am interested in our country and society, so I inevitably get dragged into various political topics. If there's one thing I'm certain of in that area, it's that most people's interaction with politics is both harmful to themse]]></description>
+            <content:encoded><![CDATA[
+      		  
+<p><img src="http://cdn.sett.com/images/user/20200509/20200507180304ca549909ae2b8d113a13b908a0051a47_m.jpg"></p>
+<p>I have almost no interest in politics, but I am interested in our country and society, so I inevitably get dragged into various political topics. If there's one thing I'm certain of in that area, it's that most people's interaction with politics is both harmful to themselves and counterproductive for society. At the risk of making many readers furious, I'd like to share my thoughts on politics.</p>
+<p>First, though, <a href="https://www.youtube.com/watch?v=-DHuRTvzMFw">watch my favorite video discussing politics</a> that I've ever seen. It's the interview between Ben Shapiro (very conservative) and Andrew Yang (very liberal). Whether or not you agree with any of either of their positions is not relevant. Look at how they communicate. Both are clearly very intelligent, very respectful, and were looking for areas where they agreed. When they came across areas in which they disagreed, they tried to tease apart the underpinnings of why they disagreed. Sometimes they found common ground, other times they didn't.</p>
+<p>I would love to see more conversation in this style. Just how refreshing it was made me realize how starved of intelligent debate our society is. I also found myself agreeing with both of them in ways I didn't expect I would. </p>
+<p>Most people agree that division is one of our biggest problems in society. But how many of us can admit that both Trump and Obama did some positive things as well as some negative things? That's such an obvious and basic true statement, but almost everyone will bristle at it. If you cannot concede that a candidate you didn't vote for has done some positive things, and that someone you did vote for has done something negative, you are part of the problem.</p>
+<p>The great accelerator of the problem is the media. There is certainly no greater force for division in our country. Today a highly inflammatory headline said that Trump wanted reparations for the investigation against him, and wanted two extra years. It turns out that someone else said that as part of a longer statement, Trump retweeted it, and wrote something much more reasonable about how two years of his presidency was stolen (or, "stollen" as he wrote). When Obama was president I'm certain similar headlines were written about him, distorting his words and turning people who don't like him either further against him.</p>
+<p>These headlines get clicks and reads, but at the cost of dividing people further and making the other party seem like the enemy.</p>
+<p>I wish that we could acknowledge that most decisions involve trade-offs and that it's important to weigh both sides and make a decision with consideration for those trade-offs. </p>
+<p>Very few conservatives believe that humans are not affecting the environment. Most believe that the modeling for just how much we are affecting it is not very precise, and that the benefits of easy access to power is a greater net good than the damage being caused to the environment. Very few liberals want to cut off access to all fossil fuels tomorrow. The truth is that we have to make a decision as a society as to how to make the most progress with the least damage to the environment. Painting one side as anti-industry or the other as anti-environment isn't accurate and stops those conversations.</p>
+<p>If your beliefs are entirely aligned with either party, it is very likely that you are not thinking for yourself. There are some themes amongst the sets of beliefs, but they aren't so closely related that it makes sense that people would be as tightly aligned with their party beliefs as they act like they are. My own opinions range from things that would be considered very left wing to very right wing and everywhere in between. I think that both parties have some good ideas and some smart people, and are generally doing a very poor job at communicating those ideas in a way that would appeal at all to people who aren't already in that party.</p>
+<p>Think independently about politics. Watch media from both sides, if for no other reason that to understand why people on the other side of the aisle think the way they do. Think about why the other side believes what they believe, rather than thinking it comes from malice.</p>
+<p>###</p>
+<p>Lake Mead finally opened back up, so I went and had my Chipotle on the boat. It felt great to get outdoors and just lie around in the sun and put my feet in the water. I had the fantasy that I was going to work outdoors but it was too hot and sunny.</p>
+<p>So far sinec I started quarantining almost two months ago I've eaten Chipotle for every single meal except for about 5-7, mostly because I went to Austin.</p>
+
+            <p>
+            &gt;&gt; <a href="http://tynan.com/politics?action=reply">Comment on this Post</a>
+            &middot; <a href="http://tynan.com/politics?action=upvote">Like this Post</a>
+            </p>
+          <img src='http://sett.com/p.php?uid=1434076'/>
+          <img src="http://sett.com/real_time_stats.php?uid=1434076"/>
+            ]]></content:encoded>
+            
+            <pubDate>Sat, 09 May 2020 08:30:00 -0700</pubDate>
+            <guid>http://tynan.com/politics</guid>
+          </item>
+  </channel>
+</rss>

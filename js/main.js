@@ -33,11 +33,10 @@ fetch("https://sivers.org/en.atom")
         document.querySelector(".feed-entry").appendChild(entryAuthor);
 
         //entry content
-        let entryContent = document.createElement("p");
-        entryContent.classList.add("entry-content");
-        let entryContentText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
-        entryContent.innerText = entryContentText;
-        document.querySelector(".feed-entry").appendChild(entryContent);
+        // let entryContent = document.createElement("p");
+        // entryContent.classList.add("entry-content");
+
+        // document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
         let date = document.createElement("p");
@@ -98,8 +97,12 @@ fetch("http://feeds.feedburner.com/tynan?format=xml")
         //entry content
         let entryContent = document.createElement("p");
         entryContent.classList.add("entry-content");
-        let entryContentText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
-        entryContent.innerText = entryContentText;
+        let entryContentText = entries[i].getElementsByTagName("content:encoded").item(0).innerHTML;
+        let domParser = new DOMParser();
+        let parsedHTML = domParser.parseFromString(entryContentText, "text/html");
+        let firstP = parsedHTML.querySelector("p:nth-child(3)").innerText;
+        let firstPFormatted = firstP.substring(0, firstP.length - 1);
+        entryContent.innerText = firstPFormatted + "...";
         document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
@@ -156,11 +159,15 @@ fetch("http://feeds.feedburner.com/nczonline?format=xml")
         document.querySelector(".feed-entry").appendChild(entryAuthor);
 
         //entry content
-        let entryContent = document.createElement("p");
-        entryContent.classList.add("entry-content");
-        let entryContentText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
-        entryContent.innerText = entryContentText;
-        document.querySelector(".feed-entry").appendChild(entryContent);
+        // let entryContent = document.createElement("p");
+        // entryContent.classList.add("entry-content");
+        // let entryContentText = entries[i].getElementsByTagName("content:encoded").item(0).innerHTML;
+        // let domParser = new DOMParser();
+        // let parsedHTML = domParser.parseFromString(entryContentText, "text/html");
+        //let firstP = parsedHTML.querySelector("p:nth-child(1)");
+        // let firstPFormatted = firstP.substring(0, firstP.length - 1);
+        // entryContent.innerText = firstPFormatted + "...";
+        // document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
         let date = document.createElement("p");
