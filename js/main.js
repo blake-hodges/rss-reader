@@ -42,14 +42,14 @@ fetch("https://sivers.org/en.atom")
         let domParser = new DOMParser();
         let parsedHTML = domParser.parseFromString(content, "text/html");
         let x = parsedHTML.querySelector("body").innerHTML;
-        console.log(x);
-        let y = x.match(/&lt;p&gt;[^]*&lt;\/p&gt;/);
-        console.log(y[0]);
-
-
-        //console.log(y);
-
-        entryContent.innerText = y;
+        //console.log(x);
+        let y = x.match(/&lt;p&gt;[\s\S]+?&lt;\/p&gt;/);
+        //console.log(y[0]);
+        //console.log(y[0]);
+        let strOne = y[0];
+        let strTwo = strOne.replace(/&lt;.+?&gt;/g, "");
+        console.log(strTwo);
+        entryContent.innerText = strTwo;
         document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
