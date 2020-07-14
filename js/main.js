@@ -33,10 +33,24 @@ fetch("https://sivers.org/en.atom")
         document.querySelector(".feed-entry").appendChild(entryAuthor);
 
         //entry content
-        // let entryContent = document.createElement("p");
-        // entryContent.classList.add("entry-content");
+        let entryContent = document.createElement("p");
+        entryContent.classList.add("entry-content");
 
-        // document.querySelector(".feed-entry").appendChild(entryContent);
+        //parse text with a regular expression to remove html tags
+        let content = entries[i].querySelector("content").innerHTML;
+        //console.log(content);
+        let domParser = new DOMParser();
+        let parsedHTML = domParser.parseFromString(content, "text/html");
+        let x = parsedHTML.querySelector("body").innerHTML;
+        console.log(x);
+        let y = x.match(/&lt;p&gt;[^]*&lt;\/p&gt;/);
+        console.log(y[0]);
+
+
+        //console.log(y);
+
+        entryContent.innerText = y;
+        document.querySelector(".feed-entry").appendChild(entryContent);
 
         //date
         let date = document.createElement("p");
@@ -135,7 +149,7 @@ fetch("http://feeds.feedburner.com/nczonline?format=xml")
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         let xmlContent = data;
-        console.log(data);
+        //console.log(data);
         let entries = data.querySelectorAll("item");
 
         for(let i = 0;i < entries.length;i++) {
