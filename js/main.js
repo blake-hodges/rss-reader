@@ -3,12 +3,39 @@ let siversData = [];
 let tynanData = [];
 let zakasData = [];
 
+let blogPostsArr = [];
+
+
+
 
 fetch("https://sivers.org/en.atom")
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
+        storeSiversData(data);
+        fetch("http://feeds.feedburner.com/tynan?format=xml")
+            .then(response => response.text())
+            .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+            .then(data => {
+                storeTynanData(data);
+                fetch("http://feeds.feedburner.com/nczonline?format=xml")
+                    .then(response => response.text())
+                    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                    .then(data => {
+                        storeZakasData(data);
+                        let blogPostsSorted = blogPostsArr.sort(sortByDate);
+                        let reversed = blogPostsSorted.reverse();
 
+                        displayPosts(reversed);
+                    });
+            });
+
+        });
+
+
+
+
+    function storeSiversData(data) {
         let entries = data.querySelectorAll("entry");
 
         for (let i = 0;i < 10; i++) {
@@ -31,20 +58,17 @@ fetch("https://sivers.org/en.atom")
             let dateString = entries[i].querySelector("updated").innerHTML;
             let dateObj = new Date(dateString);
             siversData[i]["date"] = dateObj.toDateString();
+            //get utc from date object
+            siversData[i]["utc"] = Date.UTC(dateObj.getFullYear(), dateObj.getMonth(), dateObj.getDate());
             //get url of blog article
             siversData[i]["url"] = entries[i].querySelector("link").getAttribute("href");
+            //add entry data to blog posts array
+            blogPostsArr.push(siversData[i]);
 
         }
-    })
-    .then( () => {
-        displayPosts(siversData);
-    });
+    }
 
-fetch("http://feeds.feedburner.com/tynan?format=xml")
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-        let xmlContent = data;
+    function storeTynanData(data) {
         let entries = data.querySelectorAll("item");
 
         for (let i = 0; i < entries.length; i++) {
@@ -65,22 +89,16 @@ fetch("http://feeds.feedburner.com/tynan?format=xml")
             let dateString = entries[i].querySelector("pubDate").innerHTML;
             let dateObj = new Date(dateString);
             tynanData[i]["date"] = dateObj.toDateString();
+            //get utc from date object
+            tynanData[i]["utc"] = Date.UTC(dateObj.getFullYear(), dateObj.getMonth(), dateObj.getDate());
             //get url of blog article
             tynanData[i]["url"] = entries[i].querySelector("link").innerHTML;
-
-
-
+            //add entry data to blog posts array
+            blogPostsArr.push(tynanData[i]);
         }
-    })
-    .then( () => {
-        displayPosts(tynanData);
-    });
+    }
 
-fetch("http://feeds.feedburner.com/nczonline?format=xml")
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-        let xmlContent = data;
+    function storeZakasData(data) {
         let entries = data.querySelectorAll("item");
 
         for (let i = 0; i < entries.length; i++) {
@@ -96,14 +114,31 @@ fetch("http://feeds.feedburner.com/nczonline?format=xml")
             let dateString = entries[i].querySelector("pubDate").innerHTML;
             let dateObj = new Date(dateString);
             zakasData[i]["date"] = dateObj.toDateString();
+            //get utc from date object
+            zakasData[i]["utc"] = Date.UTC(dateObj.getFullYear(), dateObj.getMonth(), dateObj.getDate());
             //get url of blog article
             zakasData[i]["url"] = entries[i].querySelector("link").innerHTML;
+            //add entry data to blog posts array
+            blogPostsArr.push(zakasData[i]);
+
 
         }
-    })
-    .then( () => {
-        displayPosts(zakasData);
-    });
+    }
+
+    //function to sort array of blog posts by utc
+    function sortByDate(a, b) {
+        let dateA = a.utc;
+        let dateB = b.utc;
+        let comparison = 0;
+        if (dateA > dateB) {
+            comparison = 1;
+        } else if (dateB > dateA) {
+            comparison = -1;
+        }
+        return comparison;
+    }
+
+
 
     function displayPosts(dataObj) {
 
