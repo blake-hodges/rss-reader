@@ -279,3 +279,7 @@ h3 {
     border: grey 1px solid;
     border-radius: 2px;
 }
+
+.feed-entry {
+    /* margin: 20px; */
+}
