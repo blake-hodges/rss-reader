@@ -1,3 +1,9 @@
+//to do {
+//
+// clean up fetch functions
+// get rid of variables in global scope
+// make it work without cors chrome plugin
+
 
 let siversData = [];
 let tynanData = [];
@@ -8,17 +14,17 @@ let blogPostsArr = [];
 
 
 
-fetch("https://sivers.org/en.atom")
+fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         storeSiversData(data);
-        fetch("http://feeds.feedburner.com/tynan?format=xml")
+        fetch("https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/tynan?format=xml")
             .then(response => response.text())
             .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
             .then(data => {
                 storeTynanData(data);
-                fetch("http://feeds.feedburner.com/nczonline?format=xml")
+                fetch("https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/nczonline?format=xml")
                     .then(response => response.text())
                     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                     .then(data => {
