@@ -148,6 +148,9 @@ fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
 
     function displayPosts(dataObj) {
 
+        //remove spinner
+        document.querySelector(".lds-spinner").remove();
+
         for (let i = 0; i < dataObj.length; i++) {
 
         //div for feed entries

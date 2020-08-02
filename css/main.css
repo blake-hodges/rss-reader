@@ -275,6 +275,7 @@ h3 {
 
 
 .feed-wrapper {
+    width: 100%;
     padding: 10px;
     border: grey 1px solid;
     border-radius: 2px;
