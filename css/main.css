@@ -262,10 +262,9 @@ textarea {
 }
 /* custom styles begin */
 
-body {
-    width: 600px;
-    margin: auto;
+.container {
 }
+
 
 h3 {
     text-align: center;
@@ -275,12 +274,19 @@ h3 {
 
 
 .feed-wrapper {
-    width: 100%;
-    padding: 10px;
-    border: grey 1px solid;
     border-radius: 2px;
 }
 
 .feed-entry {
-    /* margin: 20px; */
+    border: grey 1px solid;
+    padding: 10px;
+}
+
+.entry-content {
+    margin-top: 10px;
+}
+
+.spinner-div {
+    margin: 0 auto;
+    width: 120px;
 }

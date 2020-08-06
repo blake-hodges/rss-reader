@@ -33,12 +33,20 @@
 <body>
 
     <!-- Add your site or application content here -->
-    <h3>RSS Feed Reader</h3>
-    <div class="feed-wrapper">
-        <div class="lds-spinner">
-            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div class="container-fluid">
+        <h3>RSS Feed Reader</h3>
+        <div class="feed-wrapper">
+            <!-- <div class="lds-spinner">
+                <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+            </div> -->
+            <div class="spinner-div">
+                    <button class="btn btn-primary" disabled>
+                        <span class="spinner-border spinner-border-sm"></span>
+                        Loading..
+                    </button>
+            </div>
         </div>
-    </div>
+    </container>
 
 
     <script src="js/vendor/modernizr-3.11.2.min.js"></script>

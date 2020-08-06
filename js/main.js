@@ -2,7 +2,10 @@
 //
 // clean up fetch functions
 // get rid of variables in global scope
-// make it work without cors chrome plugin
+
+//https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom
+//https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/tynan?format=xml
+//https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/nczonline?format=xml
 
 
 let siversData = [];
@@ -34,9 +37,10 @@ fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
 
                         displayPosts(reversed);
                     });
-            });
+            })
+            .catch((error) => console.log(error));
 
-        });
+    });
 
 
 
@@ -149,7 +153,7 @@ fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
     function displayPosts(dataObj) {
 
         //remove spinner
-        document.querySelector(".lds-spinner").remove();
+        document.querySelector(".spinner-div").remove();
 
         for (let i = 0; i < dataObj.length; i++) {
 
@@ -190,12 +194,6 @@ fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
         link.setAttribute("href", linkText);
         feedEntry.appendChild(link);
 
-
-
-        //add horizontal rule after each entryTitle
-        let hr = document.createElement("hr");
-        document.querySelector(".feed-entry").appendChild(hr);
-        feedEntry.appendChild(hr);
 
 
         }

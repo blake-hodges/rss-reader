@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Derek Sivers</name>
+  </author>
+  <id>https://sive.rs/en.atom</id>
+  <title>Derek Sivers</title>
+  <updated>2020-08-06T00:00:00+00:00</updated>
+  <entry>
+    <content type="html">&lt;p&gt;
+Six weeks ago I emailed my &lt;a href=&quot;https://sive.rs/list&quot;&gt;private email list&lt;/a&gt; with a secret link to buy my new books.
+&lt;/p&gt;&lt;p&gt;
+They’re not even officially released yet, but they’ve already sold over $250,000.
+&lt;/p&gt;&lt;p&gt;
+I made 5000 limited edition hardcover copies of each, but those have sold out now.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+I’ll admit, it made me ridiculously happy to make $250,000.
+&lt;/strong&gt;
+I was expecting way less than that, so it was a big surprise.
+I had a spring in my step for days.
+&lt;/p&gt;&lt;p&gt;
+Then I thought about what to do with the money.
+There’s nothing I want to buy.
+Should I put it in an investment account?
+Eh.
+For what purpose?
+I &lt;a href=&quot;https://sive.rs/full&quot;&gt;don’t want more money&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+So, I decided to donate it to charity.
+Which charity?
+I want to save the most lives.
+So I let &lt;a href=&quot;https://www.givewell.org/&quot;&gt;GiveWell&lt;/a&gt; decide.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+Yesterday I wired the entire $250,000 to the &lt;a href=&quot;https://www.againstmalaria.com/&quot;&gt;Against Malaria Foundation&lt;/a&gt;.
+&lt;/strong&gt;
+That will buy 125,000 malaria nets, protecting ~225,000 people, averting ~65,000 cases of malaria, preventing ~125 deaths.
+&lt;/p&gt;&lt;p&gt;
+Yeah.
+That’s &lt;a href=&quot;https://sive.rs/n&quot;&gt;worth doing&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+Afterwards, a friend reminded me that I had just repeated my “&lt;a href=&quot;https://sive.rs/232&quot;&gt;232 sand dollars&lt;/a&gt;” story, so &lt;a href=&quot;https://sive.rs/232&quot;&gt;go read that&lt;/a&gt; if interested.
+&lt;/p&gt;&lt;p&gt;
+You can buy the books now, directly from me.
+They won’t be available anywhere else for a couple more months.
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+“&lt;strong&gt;&lt;a href=&quot;https://sive.rs/m&quot;&gt;Your Music and People&lt;/a&gt;&lt;/strong&gt;” is a philosophy of getting your work to the world by being creative, considerate, resourceful, and connected.
+&lt;/li&gt;&lt;li&gt;
+“&lt;strong&gt;&lt;a href=&quot;https://sive.rs/n&quot;&gt;Hell Yeah or No&lt;/a&gt;&lt;/strong&gt;” is a collection of thoughts around what’s worth doing, fixing faulty thinking, and making things happen.
+&lt;/li&gt;&lt;/ul&gt;
+&lt;img src=&quot;/images/DerekSivers-cover-YourMusicAndPeople-400x492.png&quot; alt=&quot;Your Music and People&quot;&gt;
+&lt;br&gt;
+&lt;img src=&quot;/images/DerekSivers-cover-HellYeahOrNo-400x492.png&quot; alt=&quot;Hell Yeah or No&quot;&gt;
+</content>
+    <id>https://sive.rs/250k</id>
+    <link href="https://sive.rs/250k"/>
+    <title>$250K books sold. $250K to save lives.</title>
+    <updated>2020-08-06T00:00:00+00:00</updated>
+    <dc:date>2020-08-06T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Since I’ve &lt;a href=&quot;https://sive.rs/prog&quot;&gt;mentioned&lt;/a&gt; that I recently learned JavaScript, people have asked me how and what I recommend.
+So here’s my experience and best advice for 2020.
+&lt;/p&gt;&lt;h3&gt;
+Learn plain JavaScript
+&lt;/h3&gt;&lt;p&gt;
+First, it’s important to &lt;strong&gt;learn plain JavaScript&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+Don’t depend on a library of shortcuts.
+JavaScript will be around for many years, while libraries and frameworks come and go every year.
+&lt;/p&gt;&lt;h3&gt;
+How to begin
+&lt;/h3&gt;&lt;p&gt;
+Don’t just learn from little bits of tutorials, tips, or tricks online.
+Instead, you want a real foundation and solid understanding.
+Then all your future learning will be so much faster.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+Start with the book: “&lt;a href=&quot;https://www.oreilly.com/library/view/head-first-javascript/9781449340124/&quot;&gt;Head First JavaScript Programming&lt;/a&gt;”.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+It’s a great introduction with a fun teaching style, which is important to get you familiar with something so new.
+Just read through it quickly in a couple days, before your deeper learning begins.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+Do &lt;a href=&quot;https://www.freecodecamp.org/&quot;&gt;Free Code Camp&lt;/a&gt;.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+Someone who had 600 JavaScript learners &lt;a href=&quot;https://news.ycombinator.com/item?id=11048409&quot;&gt;said&lt;/a&gt; Free Code Camp had the best results.
+Do it at the same time as you’re reading the books.
+Learning sticks better when coming through different senses.
+&lt;/p&gt;&lt;h3&gt;
+Make it stick
+&lt;/h3&gt;&lt;p&gt;
+I highly recommend you &lt;strong&gt;write down every new thing you learn&lt;/strong&gt;, ideally into a flashcard program, &lt;a href=&quot;https://sive.rs/srs&quot;&gt;like this&lt;/a&gt;.
+It’s a lot to digest, so you’ll have to remind yourself of what you’ve learned, or you’ll immediately forget.
+&lt;/p&gt;&lt;h3&gt;
+Reinforce it
+&lt;/h3&gt;&lt;p&gt;
+Afterwards, if you want to solidify what you’ve learned, quickly read through a few more books like these:
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://leanpub.com/ydkjsy-get-started&quot;&gt;You Don’t Know JS — by Kyle Simpson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pragprog.com/titles/ves6/&quot;&gt;Rediscovering JavaScript — by Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://effectivejs.com/&quot;&gt;Effective JavaScript — by David Herman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+&lt;strong&gt;These books will go faster&lt;/strong&gt;, now that you’re fluent.
+Play around with the examples.
+There will be no huge surprises.
+You’re just enhancing what you know.
+&lt;/p&gt;&lt;h3&gt;
+Avoid the shortcuts
+&lt;/h3&gt;&lt;p&gt;
+When solving a problem, everyone will point you to some pre-made solution.
+“Use jQuery! Use React! Use this library and save yourself some typing!”
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+But no!
+Not yet!
+Do it the hard way.
+Solve everything yourself with plain JavaScript.
+&lt;/strong&gt;
+It’s the best way to learn.
+&lt;/p&gt;&lt;h3&gt;
+What next?
+&lt;/h3&gt;&lt;p&gt;
+If you had a web app in mind, start building it now.
+(OK, you can use shortcuts.)
+&lt;/p&gt;&lt;p&gt;
+If you had an iPhone or Android app in mind, learn &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+If you want a good-paying job, you can &lt;a href=&quot;https://sive.rs/gethired&quot;&gt;get hired&lt;/a&gt; almost anywhere.
+Since you know the real JavaScript foundations more than most people, you’re very valuable.
+You can quickly learn whatever framework they’re using.
+&lt;/p&gt;&lt;h3&gt;
+Any other suggestions?
+What worked for you?
+&lt;/h3&gt;&lt;p&gt;
+Please share any other suggestions or experiences, here:
+&lt;/p&gt;
+&lt;img alt=&quot;&quot; src=&quot;/images/js.png&quot;&gt;
+</content>
+    <id>https://sive.rs/learn-js</id>
+    <link href="https://sive.rs/learn-js"/>
+    <title>How to learn JavaScript</title>
+    <updated>2020-06-22T00:00:00+00:00</updated>
+    <dc:date>2020-06-22T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+A new day begins when I wake up, not at midnight.
+Midnight means nothing to me.
+It’s not a turning point.
+Nothing changes at that moment.
+&lt;/p&gt;&lt;p&gt;
+A new year begins when there’s a memorable change in my life.
+Not January 1st.
+Nothing changes on January 1st.
+&lt;/p&gt;&lt;p&gt;
+I can understand using moments like midnight and January 1st as coordinators, so cultures and computers can &lt;a href=&quot;https://xkcd.com/1179/&quot;&gt;agree&lt;/a&gt; on how to reference time.
+&lt;strong&gt;
+But shouldn’t our personal markers and celebrations happen at personally meaningful times?
+&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+Your year really begins when you move to a new home, start school, quit a job, have a big breakup, have a baby, quit a bad habit, start a new project, or whatever else.
+Those are the real memorable turning points — where one day is very different than the day before.
+Those are the meaningful markers of time.
+Those are your real new years.
+&lt;/p&gt;&lt;p&gt;
+This isn’t selfish.
+You know your friends and family well enough to acknowledge these special days for them, too.
+The day that I most want to celebrate someone’s life has nothing to do with the calendar day that they were born.
+&lt;/p&gt;&lt;p&gt;
+The fourth Thursday in November is not when I feel most thankful.
+The 14th of February is not when I celebrate my romantic relationship.
+&lt;strong&gt;
+To force these celebrations on universal dates disconnects them from the meaning they’re supposed to celebrate.
+&lt;/strong&gt;
+It’s thoughtless.
+&lt;/p&gt;&lt;p&gt;
+Celebrate personally meaningful markers.
+Ignore arbitrary calendar dates.
+&lt;/p&gt;&lt;p&gt;
+When did this year really begin for you?
+&lt;/p&gt;
+</content>
+    <id>https://sive.rs/mny</id>
+    <link href="https://sive.rs/mny"/>
+    <title>Time is personal. Your year changes when your life changes.</title>
+    <updated>2019-12-30T00:00:00+00:00</updated>
+    <dc:date>2019-12-30T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+One approach to music is to do whatever you want.
+Absolutely anything goes.
+But to me, that’s too free.
+It’s anti-inspiring because having infinite options is overwhelming.
+&lt;/p&gt;&lt;p&gt;
+Another approach to music is to follow tradition.
+You stay within the guidelines of a genre or style.
+But to me, that’s too strict and sad.
+It was someone else’s innovation.
+To imitate it now with rules and recipes is just nostalgia.
+It’s uninspired and dishonest.
+&lt;/p&gt;&lt;p&gt;
+So my favorite approach to music is in-between.
+&lt;strong&gt;
+You make up your own rules, and apply them to a piece of music.
+&lt;/strong&gt;
+You know what this is called?
+An experiment!
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+Experiment with limitations.
+Write a piece using only two instruments and five notes.
+Write a lyric using only nouns and no verbs.
+&lt;/li&gt;&lt;li&gt;
+Experiment with textures.
+Record an arrangement using only children’s toys or samples of birds.
+&lt;/li&gt;&lt;li&gt;
+Experiment with density.
+Write a piece featuring fifty instruments.
+Then do a solo piece using only your left hand.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+I loved learning and applying specific techniques.
+Like I’d learn a certain way of developing a melody, then go write melodies using that method.
+I’d learn about re-harmonizing — where you keep the same melody but change the chords underneath, completely changing the mood — then I’d go apply that to all of my songs.
+Techniques to build tension.
+Techniques to change time.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+With each new thing I learn, I have to try it, and make something.
+&lt;/strong&gt;
+It might not even sound good, but that’s OK.
+The goal was just to see what happens, so there’s no way to fail.
+It’s all just fertilizer for future creations.
+&lt;/p&gt;
+…
+&lt;p&gt;
+I’m not an active musician anymore, but now I find that &lt;strong&gt;the way I approached music is the way I approach life.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+After I sold my company and life was a blank slate, I found that having too much freedom was overwhelming.
+&lt;/p&gt;&lt;p&gt;
+But I’m not going to buy into an -ism and follow a set of ancient rules.
+&lt;/p&gt;&lt;p&gt;
+So instead I do experiments.
+&lt;strong&gt;
+I make up rules, and apply them to my life for a while.
+&lt;/strong&gt;
+Like…
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+Experiment with limitations, fear, detachment, or my definition of home.
+&lt;/li&gt;&lt;li&gt;
+Experiment with fame, boundaries, expanding, quitting, or my self-image.
+&lt;/li&gt;&lt;li&gt;
+Experiment with vulnerability, commitment, saying yes, or saying no.
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+I usually try the opposite of whatever I did before.
+&lt;/p&gt;&lt;p&gt;
+I still love learning and applying specific techniques.
+Techniques for conversation.
+Techniques to stretch time.
+I’m glad I know how to re-harmonize because there are melodies in my past I can’t change, but I can change the thoughts underneath.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+With each new thing I learn, I have to try it.
+&lt;/strong&gt;
+It might not even feel good, but that’s what experimenting is about.
+The goal is still to see what happens, so there’s no way to fail.
+&lt;/p&gt;
+&lt;img src=&quot;/images/dandelion.jpg&quot;&gt;
+
+</content>
+    <id>https://sive.rs/eml</id>
+    <link href="https://sive.rs/eml"/>
+    <title>Experiments in music and life</title>
+    <updated>2019-11-07T00:00:00+00:00</updated>
+    <dc:date>2019-11-07T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+I just finished an experiment.
+Last month, I published a new article to my blog every day.
+I’m glad I tried it, but ultimately I didn’t like it.
+Here’s why:
+&lt;/p&gt;&lt;ol&gt;&lt;li&gt;
+It made my writing worse, not better.
+I was trying to force a conclusion quicker.
+I was &lt;a href=&quot;https://sive.rs/7&quot;&gt;skipping steps 2-5 of my writing process&lt;/a&gt;.
+I didn’t have the time to look at more angles or doubt my first conclusion.
+&lt;strong&gt;I was spending more time being shallow, to get something posted&lt;/strong&gt;, instead of taking that time to go deeper.
+&lt;/li&gt;&lt;li&gt;
+It broke the silent promise I’ve always had with my readers: that anything I post to my site is really worth your time.
+I already write many hours a day privately, but &lt;strong&gt;I only post something to the public when I feel it’s really worth sharing.&lt;/strong&gt;
+But with the daily post?
+There were some good ideas in there, but I wasn’t entirely proud of the articles.
+They were under-developed.
+I didn’t feel 100% that they were so worth your time.
+&lt;/li&gt;&lt;li&gt;
+I was spending 3-6 hours per day writing my daily post.
+So I hardly worked on my next book or anything else.
+&lt;strong&gt;
+Coming up with a daily post was becoming a full-time job.
+&lt;/strong&gt;
+And, considering the previous two points here, an unwise one.
+&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;
+It did make me write more, so I’ll probably find the happy medium now.
+I’ll be posting more than I used to before this experiment, but not every day.
+Only when I think it’s &lt;em&gt;really&lt;/em&gt; worth your time.
+&lt;/p&gt;
+&lt;img src=&quot;/images/ingredients.jpg&quot;&gt;
+&lt;h3&gt;P.S. For the record, here are my 33 daily posts:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/tp1&quot;&gt;Travel without a phone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/tp2&quot;&gt;Travel without social praise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/tp3&quot;&gt;Would you make your art if you were the last person on earth?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/ww&quot;&gt;What I did belies why&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/abio&quot;&gt;Future posthumous autobiography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/pe&quot;&gt;Have a private email account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/dq&quot;&gt;Don’t quote. Make it yours and say it yourself.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/hf&quot;&gt;Your heroes show which way you’re facing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/uncomf&quot;&gt;Where to find the hours to make it happen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/ddown&quot;&gt;Daydreaming the downside, for once&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/metac&quot;&gt;Meta-considerate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/isms&quot;&gt;Tour -isms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/ldn&quot;&gt;The joy and strategic wisdom of ignoring plans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/hooky&quot;&gt;Blowing off work to play&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/erra&quot;&gt;Err on the side of action, to test theories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/sauna&quot;&gt;Back and forth between super-hot and super-cold&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/negz&quot;&gt;Human nature to focus on the one bad thing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/autom&quot;&gt;Where we do and don’t want automation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/antic&quot;&gt;Anti-chameleon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/daydream&quot;&gt;Daydreaming is my favorite pastime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/gofear&quot;&gt;Heed your fears&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/d22&quot;&gt;Cut out everything that’s not surprising&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/polut&quot;&gt;Digital pollution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/wtg&quot;&gt;When you win the game, you stop playing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/ment&quot;&gt;How to ask your mentors for help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/vls1&quot;&gt;Living according to your hierarchy of values&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/exex&quot;&gt;Monthly self-expansion project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/masch&quot;&gt;Mastery school&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/pg2&quot;&gt;PostgreSQL example of self-contained stored procedures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/trav1&quot;&gt;What you learn by travelling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/exan&quot;&gt;Why experts are annoying&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/trd&quot;&gt;When in doubt, try the difference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/richand&quot;&gt;How I got rich on the other hand&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    <id>https://sive.rs/nod</id>
+    <link href="https://sive.rs/nod"/>
+    <title>Writing daily, but posting when ready</title>
+    <updated>2019-11-01T00:00:00+00:00</updated>
+    <dc:date>2019-11-01T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+I don’t usually talk about money, but a friend asked me what it was like to get rich, and he wanted to know specifics, so I told him my story.
+&lt;/p&gt;&lt;p&gt;
+I had &lt;a href=&quot;https://sive.rs/xn&quot;&gt;a day job&lt;/a&gt; in midtown Manhattan paying $20K per year — about minimum wage.
+On weekends I would earn $150 per day performing circus shows for kids, though I’d spend about $50 in bus fare to get to the gigs.
+I was sharing a three-bedroom apartment with two other roommates in Queens, so our rent was $333 per month each.
+I made peanut butter sandwiches for three meals a day, and at night maybe some eggs.
+I never ate out, and never took a taxi.
+&lt;strong&gt;
+My cost of living was about $1000/month, and I was earning $1800/month.
+I did this for two years, and saved up $12,000.
+&lt;/strong&gt;
+I was 22 years old.
+&lt;/p&gt;&lt;p&gt;
+Once I had $12,000 I could quit my job and become a full-time musician.
+I knew I could get a few gigs per month to pay my cost of living.
+So I was free.
+&lt;a href=&quot;https://sive.rs/nq&quot;&gt;I quit my job&lt;/a&gt; a month later, and never had a job again.
+&lt;/p&gt;&lt;p&gt;
+When I finished telling my friend this story, he asked for more.
+I said no, that was it.
+He said, “No, what about when you sold your company?”
+&lt;/p&gt;&lt;p&gt;
+I said no, that didn’t make a big difference in my life.
+That was just more money in the bank.
+The difference happened when I was 22.
+&lt;/p&gt;&lt;p&gt;
+It’s not how much you have.
+&lt;strong&gt;
+It’s the difference between what you have and what you spend.
+&lt;/strong&gt;
+If you have more than you spend, you’re rich.
+If you spend more than you have, you’re not.
+If you live cheaply, it’s easy to be free.
+&lt;/p&gt;&lt;p&gt;
+Magicians wave one hand around to get your attention, while the other hand does the trick.
+To be smart, watch the other hand.
+&lt;/p&gt;
+&lt;img src=&quot;/images/magichands.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/richand</id>
+    <link href="https://sive.rs/richand"/>
+    <title>How I got rich on the other hand</title>
+    <updated>2019-10-30T00:00:00+00:00</updated>
+    <dc:date>2019-10-30T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Starting today you can follow my podcast at &lt;a href=&quot;https://sive.rs/podcast.rss&quot;&gt;sive.rs/podcast.rss&lt;/a&gt; or listen on the web at &lt;a href=&quot;https://sive.rs/podcast&quot;&gt;sive.rs/podcast&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+Each episode is around two minutes long.
+They are &lt;a href=&quot;https://sive.rs/blog&quot;&gt;my posts since September 22nd&lt;/a&gt;.
+33 episodes so far.
+&lt;/p&gt;&lt;p&gt;
+I generated the RSS XML feed myself using &lt;a href=&quot;https://gist.github.com/sivers/e3a90a742cfc0802ede9dbf553339174&quot;&gt;this Ruby script&lt;/a&gt;.
+The MP3s are just hosted on my own server.
+I skipped all the podcast hosting services, because I’ll never have ads so I don’t care about analytics, tracking, and all of that.
+&lt;/p&gt;&lt;p&gt;
+It doesn’t cost me anything, so I won’t be trying to make money from it.
+I’m doing it just because people keep asking me to.
+☺
+&lt;/p&gt;&lt;p&gt;
+This is all an experiment.
+Please let me know if you have any suggestions.
+&lt;/p&gt;
+</content>
+    <id>https://sive.rs/pinit2</id>
+    <link href="https://sive.rs/pinit2"/>
+    <title>Podcast published today</title>
+    <updated>2019-10-29T00:00:00+00:00</updated>
+    <dc:date>2019-10-29T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+If you’re in doubt about something that’s &lt;strong&gt;not&lt;/strong&gt; in your life, &lt;strong&gt;try it&lt;/strong&gt;.
+Things are so different in practice versus in theory.
+The only way to know is to experience it yourself.
+&lt;/p&gt;
+&lt;h3&gt;
+Try it examples:
+&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+Pursuing a new interest?
+&lt;/li&gt;&lt;li&gt;
+Moving somewhere very different?
+&lt;/li&gt;&lt;li&gt;
+Quitting your job to go freelance?
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+Err on the side of yes. 
+Try it.
+&lt;strong&gt;
+If it was a mistake, at least you’ll know first-hand, instead of always wondering.
+&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+…
+&lt;/p&gt;&lt;p&gt;
+If you’re in doubt about something that’s &lt;strong&gt;in&lt;/strong&gt; your life already, &lt;strong&gt;get rid of it&lt;/strong&gt;.
+Not just things, this goes for identities, habits, goals, relationships, technology, and anything else.
+Default to not having it, then see how you do without.
+&lt;h3&gt;
+Get rid of it examples:
+&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+Relationships that bring you down
+&lt;/li&gt;&lt;li&gt;
+Goals you’re not pursuing 
+&lt;/li&gt;&lt;li&gt;
+A career that’s plateaued
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+Err on the side of no. 
+Get rid of it.
+Start with a clean slate,
+&lt;strong&gt;
+If it was a mistake, you’ll get it back with a renewed enthusiasm.
+&lt;/strong&gt;
+&lt;p&gt;&lt;em&gt;
+(The common thread is to make the change, to know first-hand.)
+&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;
+Get rid of everything examples:
+&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+Erase your phone and computer.
+Re-install the operating system from scratch.
+Don’t restore from the backup — not even your contacts.
+Only add back people who contact you.
+Don’t install any apps unless you can’t do without them.
+&lt;/li&gt;&lt;li&gt;
+Put everything you own into storage.
+Move somewhere small and simple, bringing only what you’d take on a two-week trip.
+Only when you absolutely need something, go get it out of storage.
+After a year, sell all that stuff in storage.
+&lt;/li&gt;&lt;li&gt;
+Move across the world.
+Start from scratch with a new career, new friends, and new approach to life.
+Every time you start to do something out of habit, interrupt the pattern and try the opposite way instead.
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+(These are my favorite. I actually do these things regularly. I love simplifying.)
+&lt;/p&gt;
+&lt;img src=&quot;/images/uncaged.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/trd</id>
+    <link href="https://sive.rs/trd"/>
+    <title>When in doubt, try the difference</title>
+    <updated>2019-10-28T00:00:00+00:00</updated>
+    <dc:date>2019-10-28T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+When someone becomes an expert at something, you know what else they become?
+Annoying.
+&lt;/p&gt;&lt;p&gt;
+At a restaurant, your designer friend complains about the font on the menu, your musician friend complains about the background music, and your manager friend complains about the service.
+Why?
+&lt;/p&gt;&lt;p&gt;
+The problem is that their expertise makes them annoyed.
+They’re trained to spot errors.
+They’re so aware of what’s wrong.
+Even worse, they know exactly how to fix it.
+They learned the techniques to make things great, so they’re angry when someone didn’t do the obvious solution.
+They get so frustrated that they can’t focus on their meal, because now they really want to fix the problem.
+&lt;/p&gt;&lt;p&gt;
+These things don’t bother the rest of us.
+We’re easier to please.
+Good is good enough.
+&lt;/p&gt;&lt;p&gt;
+So only those who are the most upset, and know how to improve things, do the hard work necessary to make things great.
+&lt;strong&gt;
+The dissatisfied ones go make things better for all of us.
+&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+Why are experts annoying?
+For our benefit.
+&lt;strong&gt;
+They get mad so that we don’t have to.
+&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+Next time your friend is upset and ranting about design, politics, layout, economics, or something else you don’t care enough about, thank them for taking on the burden of knowing how to fix things, and remind them that it’s up to them to make it better.
+&lt;/p&gt;
+&lt;img src=&quot;/images/exan.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/exan</id>
+    <link href="https://sive.rs/exan"/>
+    <title>Why experts are annoying</title>
+    <updated>2019-10-27T00:00:00+00:00</updated>
+    <dc:date>2019-10-27T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+I wanted to learn about the world, so I went travelling.
+&lt;/p&gt;&lt;p&gt;
+People in the east are so graceful, I felt like an inconsiderate pig.
+&lt;/p&gt;&lt;p&gt;
+People up north are so serious, I felt like a lightweight clown.
+&lt;/p&gt;&lt;p&gt;
+People down south are so laid-back, I had to escape north again.
+&lt;/p&gt;&lt;p&gt;
+The way we define ourself is all relative to our surroundings, right?
+However we differ from the people in our home town is how we define ourself.
+That’s where we shape our self-identity, growing up.
+Those are our defining traits.
+&lt;/p&gt;&lt;p&gt;
+But when we go to a different place, the relative comparisons collapse.
+Traits like speed, ambition, independence, bravery, and humor — they’re all relative.
+&lt;/p&gt;&lt;p&gt;
+Back home I’m considered quiet.
+Here I’m considered loud.
+&lt;/p&gt;&lt;p&gt;
+Back home I’m a slacker.
+Here I’m a workaholic.
+&lt;/p&gt;&lt;p&gt;
+Back home I’m normal.
+Here I’m strange.
+Or vice-versa.
+So how do I define myself now?
+&lt;/p&gt;&lt;p&gt;
+I always want to know &lt;em&gt;why&lt;/em&gt; a culture is this way.
+What’s the difference?
+What are the core beliefs?
+So I ask questions and observe.
+&lt;/p&gt;&lt;p&gt;
+On the surface and from a distance, I see their actions.
+But deeply and closely, I see my reactions.
+&lt;/p&gt;&lt;p&gt;
+I want to learn about the world, so I keep travelling.
+&lt;/p&gt;&lt;p&gt;
+About the world, I learn a bit.
+About myself, I learn a lot.
+&lt;/p&gt;
+&lt;img src=&quot;/images/trav1.jpg&quot;&gt;
+
+</content>
+    <id>https://sive.rs/trav1</id>
+    <link href="https://sive.rs/trav1"/>
+    <title>What you learn by travelling</title>
+    <updated>2019-10-26T00:00:00+00:00</updated>
+    <dc:date>2019-10-26T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+First, see &lt;a href=&quot;https://sive.rs/pg&quot;&gt;my previous article about PostgreSQL functions&lt;/a&gt; at &lt;a href=&quot;https://sive.rs/pg&quot;&gt;sive.rs/pg&lt;/a&gt;.
+That article gave tiny examples, but no finished working code.
+&lt;/p&gt;&lt;p&gt;
+This week, I wrote a shopping cart to sell my books directly from my own site.
+&lt;/p&gt;&lt;p&gt;
+So I took a couple extra hours today to put my code into public view, so anyone can play around with it.
+See &lt;a href=&quot;https://github.com/sivers/store&quot;&gt;github.com/sivers/store&lt;/a&gt;, to browse, download, and try it.
+&lt;/p&gt;&lt;p&gt;
+It’s a working self-contained shopping cart / store.
+It’s a very concrete example of &lt;strong&gt;using stored procedures to keep all the data logic together&lt;/strong&gt; in one place.
+You can use it from JavaScript, Python, Ruby, or any language you want, since all the functionality is in the database itself.
+It works.
+&lt;/p&gt;&lt;p&gt;
+If you have any questions, or want to tell me how &lt;a href=&quot;https://sive.rs/publicu&quot;&gt;stupid&lt;/a&gt; I am for doing this, &lt;a href=&quot;https://sive.rs/contact&quot;&gt;email me&lt;/a&gt;.
+&lt;/p&gt;
+&lt;img src=&quot;/images/postgresql.png&quot;&gt;
+
+</content>
+    <id>https://sive.rs/pg2</id>
+    <link href="https://sive.rs/pg2"/>
+    <title>PostgreSQL example of self-contained stored procedures</title>
+    <updated>2019-10-25T00:00:00+00:00</updated>
+    <dc:date>2019-10-25T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Here’s an idea:
+Create a little school somewhere remote.
+School of what?
+School of mastery.
+&lt;/p&gt;&lt;p&gt;
+A place for anyone who wants go focus on a skill of their choice, surrounded by other people doing the same, and a few coaches — experts on the craft of mastery — to offer help and guidance.
+&lt;/p&gt;&lt;p&gt;
+This uses &lt;a href=&quot;https://www.ted.com/talks/salman_khan_let_s_use_video_to_reinvent_education&quot;&gt;Salman Khan’s proposal&lt;/a&gt; to “flip the classroom” so that the &lt;strong&gt;core of learning is done in independent study, using online materials&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+Since the teachers are all online, the local coaches just help guide each student’s path to mastery.
+There are many great books on this subject, like…
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/TalentCode&quot;&gt;Talent Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/Mastery&quot;&gt;Mastery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/AtomicHabits&quot;&gt;Atomic Habits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/ArtOfLearning&quot;&gt;Art of Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/PeakPerformance&quot;&gt;Peak Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/TalentIsOverrated&quot;&gt;Talent is Overrated&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sive.rs/book/Overachievement&quot;&gt;Overachivement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;and &lt;a href=&quot;https://sive.rs/book/Peak&quot;&gt;Peak&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+So you can see how the general skill of guiding and coaching talent, in any field, could be the best focus of the on-site staff.
+&lt;/p&gt;&lt;p&gt;
+The school should be located somewhere that fits with the story we tell ourselves about going away to focus.
+Somewhere that’s a desirable location, yet still somewhere with income inequality, where a school bringing a little business and fast fiber internet to a remote location would be appreciated.
+All the staff except the coaches could come from the local community.
+&lt;/p&gt;&lt;p&gt;
+Some shared resources like a good camera and microphone, a few computers, a video library to save bandwidth, and a chef making meals for everyone.
+&lt;/p&gt;&lt;p&gt;
+I imagine this could be as small and simple as a big house in the country, or a few cabins nearby.
+&lt;/p&gt;
+&lt;h3&gt;Why attend?&lt;/h3&gt;
+&lt;ol&gt;&lt;li&gt;
+To get away somewhere you can focus without distraction — a show of dedication and focus
+&lt;/li&gt;&lt;li&gt;
+To be around other serious focused learners, inspiring eachother
+&lt;/li&gt;&lt;li&gt;
+To have the help of coaches that are great at helping anyone learn anything.
+They are experts in the skill of practice, learning, and mastery.
+&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;
+So, you go there to work on your thing, whatever it is.
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+You learn from online materials, books, and whatever it takes.
+&lt;/li&gt;&lt;li&gt;
+You practice and create as much as possible.
+&lt;/li&gt;&lt;li&gt;
+You're surrounded by kindreds and assistance.
+&lt;/li&gt;&lt;/ul&gt;
+&lt;img src=&quot;/images/masch.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/masch</id>
+    <link href="https://sive.rs/masch"/>
+    <title>Mastery school</title>
+    <updated>2019-10-24T00:00:00+00:00</updated>
+    <dc:date>2019-10-24T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Here’s an idea:
+&lt;strong&gt;
+Every month, pick something you hate or know nothing about, and get to know it well.
+&lt;/strong&gt;
+Spend a few hours per week, for an entire month, just learning about that subject.
+Why?
+&lt;/p&gt;&lt;p&gt;
+The idea is inspired by a very successful friend of mine who is regrettably closed-minded.
+She hates everything that isn’t European, sophisticated, and familiar.
+Culture of India?
+Hates it.
+Chinese opera?
+Hates it.
+West African music?
+Hates it.
+Any mention of any of these things, and she completely shuts down.
+Appreciating them is not an option.
+I tried to play her my favorite Indian music, and West African music, but nope.
+Just a few seconds into it, she asks me to shut it off.
+&lt;/p&gt;&lt;p&gt;
+It made me realize that &lt;strong&gt;some of the greatest joys in my life&lt;/strong&gt; are the things I used to hate, or know nothing about, and now have grown to love.
+Read my post “&lt;a href=&quot;https://sive.rs/hate&quot;&gt;Loving what I used to hate&lt;/a&gt;” for my story about that.
+&lt;/p&gt;&lt;p&gt;
+So I thought:
+Instead of letting it happen accidently or randomly, why not be deliberate about it?
+Some ideas of things to study for a month would be…
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.thegreatcourses.com/courses/everyday-engineering-understanding-the-marvels-of-daily-life.html&quot;&gt;civil engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tolstoy&lt;/li&gt;
+&lt;li&gt;archery&lt;/li&gt;
+&lt;li&gt;Bollywood&lt;/li&gt;
+&lt;li&gt;dog training&lt;/li&gt;
+&lt;li&gt;Dungeons and Dragons&lt;/li&gt;
+&lt;li&gt;chess&lt;/li&gt;
+&lt;li&gt;Zanzibar&lt;/li&gt;
+&lt;li&gt;cryptography&lt;/li&gt;
+&lt;li&gt;emergency medical training&lt;/li&gt;
+&lt;li&gt;anything &lt;a href=&quot;https://www.thegreatcourses.com/courses/sort-by/inline_rating/sort-direction/desc?ICMP=126572&quot;&gt;The Great Courses&lt;/a&gt; has a course about&lt;/li&gt;
+&lt;li&gt;anything &lt;a href=&quot;https://www.veryshortintroductions.com/&quot;&gt;Very Short Introductions&lt;/a&gt; has a mini-book about&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+If it’s learning a skill, read Josh Kaufman’s &lt;a href=&quot;https://first20hours.com/&quot;&gt;First 20 Hours&lt;/a&gt; and use that approach.
+&lt;/p&gt;&lt;p&gt;
+While you might lean towards things you’ve always wanted to learn about, I think it’s more interesting to ask yourself, “What do I have absolutely no interest in?” or “What sounds repulsive to me?”, then aim to understand one of those things.
+Start with a kind of music you hate, or a part of the world that sounds unappealing to you.
+That’s where the real self-expansion happens.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+Whenever we learn about something, we learn to appreciate it.
+&lt;/strong&gt;
+So it’s most rewarding if it’s something you previously had no appreciation for.
+&lt;/p&gt;&lt;p&gt;
+I like this idea a lot, and plan to do it soon.
+&lt;/p&gt;
+&lt;img src=&quot;/images/exex.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/exex</id>
+    <link href="https://sive.rs/exex"/>
+    <title>Monthly self-expansion project</title>
+    <updated>2019-10-23T00:00:00+00:00</updated>
+    <dc:date>2019-10-23T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+My “daily” blog was silent the last four days, because I took my kid on a spontaneous trip to another country.
+&lt;a href=&quot;https://sive.rs/tp1&quot;&gt;No phone&lt;/a&gt;.
+No computer.
+I gave him my full attention every day from when he woke me in the morning to when we fell asleep together at night.
+It was great.
+&lt;/p&gt;&lt;p&gt;
+I thought for a minute about the importance of my commitment to post here daily.
+But nope, &lt;strong&gt;being with him is more important than writing&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+Upon returning, I considered heading off by myself on a 10-day trip, balancing writing and exploring another culture.
+But after &lt;a href=&quot;https://sive.rs/slow&quot;&gt;sleeping on it&lt;/a&gt;, I realized that no, &lt;strong&gt;writing is more important than exploring&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+Once you realize that one value is more important to you than another, &lt;strong&gt;you have to ask yourself if you’re living accordingly&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+What’s ultimately more important to you?
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+Learning? Or creating?
+&lt;/li&gt;&lt;li&gt;
+Money? Or time?
+&lt;/li&gt;&lt;li&gt;
+Expanding? Or focusing?
+&lt;/li&gt;&lt;li&gt;
+(… etc.)
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+Once you know which takes top place, consider &lt;a href=&quot;https://sive.rs/sauna&quot;&gt;taking it to an extreme&lt;/a&gt;, to its logical conclusion, and &lt;strong&gt;optimizing your entire life around that top priority, letting go of almost everything else&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+If the idea sounds unfulfilling, try re-ordering your priorities, and do the thought experiment again.
+&lt;/p&gt;&lt;p&gt;
+&lt;em&gt;
+(That’s the subject of my next book, “&lt;a href=&quot;https://sive.rs/h&quot;&gt;How to Live&lt;/a&gt;”, which is my top writing priority right now, and so much fun!)
+&lt;/em&gt; ☺
+&lt;/p&gt;
+&lt;img src=&quot;/images/pyramid1.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/vls1</id>
+    <link href="https://sive.rs/vls1"/>
+    <title>Living according to your hierarchy of values</title>
+    <updated>2019-10-22T00:00:00+00:00</updated>
+    <dc:date>2019-10-22T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+I have three mentors.
+&lt;/p&gt;&lt;p&gt;
+When I’m stuck on a problem and need their help, I take the time to write a good description of my dilemma, before reaching out to them.
+I summarize the context, the problem, my options, and thoughts on each.
+I make it as succinct as possible so as not to waste their time.
+&lt;/p&gt;&lt;p&gt;
+Before sending it, I try to predict what they’ll say.
+Then I go back and update what I wrote to address these obvious points in advance.
+Finally, I try again to predict what they’ll say to this, based on what they’ve said in the past and what I know of their philosophy.
+&lt;/p&gt;&lt;p&gt;
+Then, after this whole process, I realize I don’t need to bother them because the answer is now clear.
+&lt;/p&gt;&lt;p&gt;
+If anything, I might email to thank them for their continued inspiration.
+&lt;/p&gt;&lt;p&gt;
+Truth is, I’ve hardly talked with my mentors in years.
+None of them know they are my mentors.
+And one doesn’t know I exist.
+&lt;/p&gt;
+&lt;img src=&quot;/images/thinking.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/ment</id>
+    <link href="https://sive.rs/ment"/>
+    <title>How to ask your mentors for help</title>
+    <updated>2019-10-17T00:00:00+00:00</updated>
+    <dc:date>2019-10-17T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Someone asked me today why I don’t charge money for the things I do.
+&lt;/p&gt;&lt;p&gt;
+Why don’t I have ads on my site?
+Why don’t I exploit my assets and pursue some profitable things?
+&lt;/p&gt;&lt;p&gt;
+I already &lt;a href=&quot;https://sive.rs/done&quot;&gt;did that&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+I made &lt;a href=&quot;https://sive.rs/trust&quot;&gt;more&lt;/a&gt; than I’ll ever be able to spend.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+What do you do when you win a game?
+&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+You stop playing, and go do something else.
+&lt;/p&gt;
+&lt;img src=&quot;/images/boardgame.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/wtg</id>
+    <link href="https://sive.rs/wtg"/>
+    <title>When you win the game, you stop playing</title>
+    <updated>2019-10-16T00:00:00+00:00</updated>
+    <dc:date>2019-10-16T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+You couldn’t just roll down the street leaving huge piles of garbage everywhere you go, making life slower for everyone as they climb over your mountains of junk, just to get on with their life.
+You’d feel bad about it, right?
+&lt;/p&gt;&lt;p&gt;
+That’s how I feel about the digital things we put out into the world: websites, apps, and files.
+&lt;/p&gt;&lt;p&gt;
+I prefer coding everything by hand, because I don’t like the huge piles of garbage that the automated generators create.
+These programs that generate a website, app, or file for you spit out thousands of lines of unnecessary junk when really only 10 lines are needed.
+Then people wonder why their site is so slow, and they think it’s their phone or connection’s fault.
+&lt;/p&gt;&lt;p&gt;
+Yesterday I needed to make a little vector logo.
+Two lines and two triangles.
+I tried to use a couple different vector drawing programs but they saved it as hundreds of lines.
+I knew it could be simpler, so I read up on SVG and made exactly what I wanted:
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+&amp;lt;svg height=&amp;quot;54&amp;quot; width=&amp;quot;54&amp;quot;&amp;gt;
+&amp;lt;defs&amp;gt;&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;&amp;lt;![CDATA[line,polygon{stroke:black;stroke-width:4} polygon{fill:black}]]&amp;gt;&amp;lt;/style&amp;gt;&amp;lt;/defs&amp;gt;
+&amp;lt;line x1=&amp;quot;2&amp;quot; y1=&amp;quot;2&amp;quot; x2=&amp;quot;2&amp;quot; y2=&amp;quot;52&amp;quot; /&amp;gt;
+&amp;lt;line x1=&amp;quot;52&amp;quot; y1=&amp;quot;2&amp;quot; x2=&amp;quot;52&amp;quot; y2=&amp;quot;52&amp;quot; /&amp;gt;
+&amp;lt;polygon points=&amp;quot;2,2 27,27 2,27&amp;quot; /&amp;gt;
+&amp;lt;polygon points=&amp;quot;52,2 27,27 52,27&amp;quot; /&amp;gt;
+&amp;lt;/svg&amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;img src=&quot;/images/HitMediaLogo-54.svg&quot;&gt;
+&lt;p&gt;
+Much better!
+95% smaller file size, and the joy of making something by hand instead of having it done for me.
+But I think my biggest joy is &lt;strong&gt;eliminating the digital pollution&lt;/strong&gt; that the auto-generated one created.
+It makes everything faster, easier, and cleaner for anyone involved.
+95% less junk over the wires.
+&lt;/p&gt;&lt;p&gt;
+Same thing with the EPUB file for my new book.
+Today I spent the day creating the EPUB’s XML and XHTML by hand, instead of using a generator.
+I love the manual control and again - 90% smaller file size.
+&lt;/p&gt;&lt;p&gt;
+This makes me unreasonably happy.
+It feels like cleaning up the neighborhood.
+Or at least my yard.
+&lt;/p&gt;&lt;p&gt;
+(And I love it when people notice how fast my site loads.)
+&lt;/p&gt;
+&lt;img src=&quot;/images/HitMediaLogo-54.png&quot;&gt;
+</content>
+    <id>https://sive.rs/polut</id>
+    <link href="https://sive.rs/polut"/>
+    <title>Digital pollution</title>
+    <updated>2019-10-15T00:00:00+00:00</updated>
+    <dc:date>2019-10-15T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+This is my advice to anyone writing something for the public — especially a talk on stage.
+&lt;/p&gt;&lt;p&gt;
+People listen to a talk, or read an article, because they want to learn something new.
+&lt;/p&gt;&lt;p&gt;
+They want a little “oh wow” moment.
+“I never thought of it that way before.”
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+People only really learn when they’re surprised.
+&lt;/strong&gt;
+If they’re not surprised, then what you told them just fits in with what they already know.
+No minds were changed.
+No new perspective.
+Just more information.
+&lt;/p&gt;&lt;p&gt;
+So my main advice to anyone preparing to give a talk on stage is to cut out everything from your talk that’s not surprising.
+(Nobody has ever complained that a talk was too short.)
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+Use this rule in all your public writing.
+&lt;/strong&gt;
+If you already found something surprising in what you’re presenting, then remove everything else.
+If you haven’t found something surprising about it yet, keep looking until you do.
+&lt;/p&gt;
+&lt;img src=&quot;/images/wheelsoff.jpg&quot;&gt;
+</content>
+    <id>https://sive.rs/d22</id>
+    <link href="https://sive.rs/d22"/>
+    <title>Cut out everything that’s not surprising</title>
+    <updated>2019-10-14T00:00:00+00:00</updated>
+    <dc:date>2019-10-14T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+People often ask me how they can get over their fears.
+For example, they are scared to quit their job and start a business.
+&lt;/p&gt;&lt;p&gt;
+I think they want me to say something to make their fears go away.
+So my advice is pretty disappointing.
+&lt;/p&gt;&lt;p&gt;
+We should pay attention to our fears.
+They often have good reason.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+Instead of ignoring them, we need to address them.
+&lt;/strong&gt;
+Break it down, and look deeper into what’s inside them.
+&lt;strong&gt;
+Address and mitigate the specifics.
+&lt;/strong&gt;
+It usually means you need to learn a little more.
+Look before you leap.
+&lt;/p&gt;&lt;p&gt;
+Always ask, “What’s the worst that could happen?”
+Because sometimes the only problem was not realizing that the worst case scenario isn’t bad at all.
+&lt;/p&gt;&lt;p&gt;
+But don’t just tell yourself to get over it or ignore it.
+&lt;/p&gt;
+&lt;img src=&quot;/images/well.png&quot;&gt;
+
+</content>
+    <id>https://sive.rs/gofear</id>
+    <link href="https://sive.rs/gofear"/>
+    <title>Heed your fears</title>
+    <updated>2019-10-13T00:00:00+00:00</updated>
+    <dc:date>2019-10-13T00:00:00+00:00</dc:date>
+  </entry>
+  <entry>
+    <content type="html">&lt;p&gt;
+Somewhere in our past, &lt;strong&gt;we were told it’s bad to daydream&lt;/strong&gt;, because it meant doing nothing — staring out the window — instead of doing what we’re supposed to be doing.
+To admit we’re daydreaming felt like it needed an apology.
+&lt;/p&gt;&lt;p&gt;
+But now I’ve finally embraced it.
+Deliberate daydreaming is my favorite pastime.
+&lt;/p&gt;&lt;p&gt;
+About half the time that I used to read a book, I now just skip the book, and sit there daydreaming instead.
+And I almost never watch videos anymore.
+I just close my eyes and daydream.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;
+I find it most fun to ask myself a big question:
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+Which were the top three best times in my life so far?
+&lt;/li&gt;&lt;li&gt;
+What are my biggest regrets?
+&lt;/li&gt;&lt;li&gt;
+What would I write a screenplay about?
+&lt;/li&gt;&lt;li&gt;
+If I had the magic lamp, what would be my three wishes?
+&lt;/li&gt;&lt;li&gt;
+What does the most ambitious version of myself look like?
+&lt;/li&gt;&lt;li&gt;
+What about the least ambitious version of myself?
+&lt;/li&gt;&lt;li&gt;
+How can I be a better dad?
+&lt;/li&gt;&lt;li&gt;
+At what would I most love to become an expert?
+&lt;/li&gt;&lt;li&gt;
+Is there anything I can’t do without?
+&lt;/li&gt;&lt;li&gt;
+How would my life be different if I was blind? Deaf? Paralyzed?
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;
+We’ve all had plenty of input.
+&lt;/strong&gt;
+It’s fun to let your mind direct its own entertainment.
+&lt;/p&gt;
+&lt;a href=&quot;http://kimbeatonstudios.com/&quot;&gt;&lt;img src=&quot;/images/treetroll.jpg&quot;&gt;&lt;/a&gt;
+</content>
+    <id>https://sive.rs/daydream</id>
+    <link href="https://sive.rs/daydream"/>
+    <title>Daydreaming is my favorite pastime</title>
+    <updated>2019-10-12T00:00:00+00:00</updated>
+    <dc:date>2019-10-12T00:00:00+00:00</dc:date>
+  </entry>
+  <dc:date>2020-08-06T00:00:00+00:00</dc:date>
+</feed>
