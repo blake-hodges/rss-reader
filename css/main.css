@@ -267,11 +267,13 @@ textarea {
 
 .feed-wrapper {
     border-radius: 2px;
+    overflow: hidden;
 }
 
 .feed-entry {
     border: grey 1px solid;
     padding: 10px;
+    width: 100%;
 }
 
 .entry-content {
