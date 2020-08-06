@@ -262,14 +262,6 @@ textarea {
 }
 /* custom styles begin */
 
-.container {
-}
-
-
-h3 {
-    text-align: center;
-    margin: 20px auto;
-}
 
 
 
@@ -287,6 +279,6 @@ h3 {
 }
 
 .spinner-div {
-    margin: 0 auto;
-    width: 120px;
+    /* margin: 0 auto;
+    width: 120px; */
 }

@@ -25,28 +25,34 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/spinner.css">
 </head>
 
 <body>
 
-    <!-- Add your site or application content here -->
     <div class="container-fluid">
-        <h3>RSS Feed Reader</h3>
-        <div class="feed-wrapper">
-            <!-- <div class="lds-spinner">
-                <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-            </div> -->
-            <div class="spinner-div">
-                    <button class="btn btn-primary" disabled>
-                        <span class="spinner-border spinner-border-sm"></span>
-                        Loading..
-                    </button>
+        <div class="row">
+            <div class="col-12 text-center">
+            <h3>RSS Feed Reader</h3>
             </div>
         </div>
-    </container>
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="spinner-div">
+                        <button class="btn btn-primary" disabled>
+                            <span class="spinner-border spinner-border-sm"></span>
+                            Loading..
+                        </button>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-6  col-md-8 col-sm-10 col-12">
+                <div class="feed-wrapper"></div>
+            </div>
+        </div>
+    </div>
+
 
 
     <script src="js/vendor/modernizr-3.11.2.min.js"></script>
