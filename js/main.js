@@ -17,17 +17,17 @@ let blogPostsArr = [];
 
 
 
-fetch("https://cors-anywhere.herokuapp.com/https://sivers.org/en.atom")
+fetch("https://sivers.org/en.atom")
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         storeSiversData(data);
-        fetch("https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/tynan?format=xml")
+        fetch("http://feeds.feedburner.com/tynan?format=xml")
             .then(response => response.text())
             .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
             .then(data => {
                 storeTynanData(data);
-                fetch("https://cors-anywhere.herokuapp.com/http://feeds.feedburner.com/nczonline?format=xml")
+                fetch("http://feeds.feedburner.com/nczonline?format=xml")
                     .then(response => response.text())
                     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                     .then(data => {
