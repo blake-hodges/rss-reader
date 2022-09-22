@@ -14,20 +14,24 @@ let zakasData = [];
 
 let blogPostsArr = [];
 
+// fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
+//     .then(response => response.text())
+//     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+//     .then(data => storeSiversData(data));
 
 
 
-fetch("https://sivers.org/en.atom")
+fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
         storeSiversData(data);
-        fetch("http://feeds.feedburner.com/tynan?format=xml")
+        fetch("https://cors-proxy-92122.herokuapp.com/http://feeds.feedburner.com/tynan?format=xml")
             .then(response => response.text())
             .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
             .then(data => {
                 storeTynanData(data);
-                fetch("http://feeds.feedburner.com/nczonline?format=xml")
+                fetch("https://cors-proxy-92122.herokuapp.com/http://feeds.feedburner.com/nczonline?format=xml")
                     .then(response => response.text())
                     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                     .then(data => {
@@ -45,10 +49,21 @@ fetch("https://sivers.org/en.atom")
 
 
 
+
     function storeSiversData(data) {
         let entries = data.querySelectorAll("entry");
+        console.log(entries);
 
-        for (let i = 0;i < 10; i++) {
+        // for (let i = 0; i < 10; i++) {
+        //     //create nested object for each blog entry
+        //     siversData[i] = {};
+        //     //get title and blog info
+        //     siversData[i]["title"] = entries[i].querySelector("title").innerHTML;
+        //     siversData[i]["site"] = "Derek Sivers | sivers.org";
+        // }
+        
+
+        for (let i = 0;i < 5; i++) {
             //create nested object for each blog entry
             siversData[i] = {};
             //get title and blog info
@@ -57,12 +72,15 @@ fetch("https://sivers.org/en.atom")
             //get content of blog entry
             //parse data for blog content with a regular expression to remove html tags
             let content = entries[i].querySelector("content").innerHTML;
+            //console.log(content);
             let domParser = new DOMParser();
             let parsedHTML = domParser.parseFromString(content, "text/html");
             let x = parsedHTML.querySelector("body").innerHTML;
             let y = x.match(/&lt;p&gt;[\s\S]+?&lt;\/p&gt;/);
+            console.log(y[0]);
             let strOne = y[0];
             let strTwo = strOne.replace(/&lt;.+?&gt;/g, "");
+            //console.log(strTwo);
             siversData[i]["content"] = strTwo;
             //get date info
             let dateString = entries[i].querySelector("updated").innerHTML;
@@ -76,6 +94,7 @@ fetch("https://sivers.org/en.atom")
             blogPostsArr.push(siversData[i]);
 
         }
+        console.log(siversData);
     }
 
     function storeTynanData(data) {
@@ -198,3 +217,4 @@ fetch("https://sivers.org/en.atom")
 
         }
     }
+
