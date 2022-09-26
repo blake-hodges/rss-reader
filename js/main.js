@@ -63,7 +63,7 @@ fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
         // }
         
 
-        for (let i = 0;i < 5; i++) {
+        for (let i = 0;i < 10; i++) {
             //create nested object for each blog entry
             siversData[i] = {};
             //get title and blog info
@@ -76,11 +76,10 @@ fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
             let domParser = new DOMParser();
             let parsedHTML = domParser.parseFromString(content, "text/html");
             let x = parsedHTML.querySelector("body").innerHTML;
-            let y = x.match(/&lt;p&gt;[\s\S]+?&lt;\/p&gt;/);
-            console.log(y[0]);
+            console.log(x);
+            let y = x.match(/&lt;p&gt;[\s\S]+?&lt;\/?p&gt;/);
             let strOne = y[0];
             let strTwo = strOne.replace(/&lt;.+?&gt;/g, "");
-            //console.log(strTwo);
             siversData[i]["content"] = strTwo;
             //get date info
             let dateString = entries[i].querySelector("updated").innerHTML;
