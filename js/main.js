@@ -14,10 +14,8 @@ let zakasData = [];
 
 let blogPostsArr = [];
 
-// fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
-//     .then(response => response.text())
-//     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-//     .then(data => storeSiversData(data));
+
+
 
 
 
@@ -53,14 +51,6 @@ fetch("https://cors-proxy-92122.herokuapp.com/https://sivers.org/en.atom")
     function storeSiversData(data) {
         let entries = data.querySelectorAll("entry");
         console.log(entries);
-
-        // for (let i = 0; i < 10; i++) {
-        //     //create nested object for each blog entry
-        //     siversData[i] = {};
-        //     //get title and blog info
-        //     siversData[i]["title"] = entries[i].querySelector("title").innerHTML;
-        //     siversData[i]["site"] = "Derek Sivers | sivers.org";
-        // }
         
 
         for (let i = 0;i < 10; i++) {

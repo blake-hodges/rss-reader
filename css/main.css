@@ -271,6 +271,7 @@ textarea {
 
 .feed-entry {
     border: grey 1px solid;
+    border-bottom: none;
     padding: 10px;
     width: 100%;
 
@@ -278,11 +279,16 @@ textarea {
     text-overflow: ellipsis;
 }
 
+.feed-entry:last-child {
+    border-bottom: grey 1px solid;
+}
+
 .entry-content {
     margin-top: 10px;
 }
 
-.spinner-div {
+/* .spinner-div {
     /* margin: 0 auto;
-    width: 120px; */
-}
+    width: 120px;
+} */
+
